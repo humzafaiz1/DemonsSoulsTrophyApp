@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".TrophiesActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/slayerOfTrophiesButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/slayeroftrophies"
+                android:text="@string/slayer_of_trophies"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/phalanxTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/phalanxtrophy"
+                android:text="@string/phalanx_s_trophy"
+                android:onClick="showPhalanx"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/towerKnightTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/towerknighttrophy"
+                android:text="@string/tower_knight_s_trophy"
+                android:onClick="showTowerKnight"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/penetratorsTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/penetratortrophy"
+                android:text="@string/penetrator_s_trophy"
+                android:onClick="showPenetrator"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/falseKingTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/falsekingtrophy"
+                android:text="@string/false_king_s_trophy"
+                android:onClick="showFalseKing"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/armorSpiderTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/armorspidertrophy"
+                android:text="@string/armor_spider_s_trophy"
+                android:onClick="showArmorSpider"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/flamelukerTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/flamelurkertrophy"
+                android:text="@string/flamelurker_s_trophy"
+                android:onClick="showFlameluker"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/dragonGodTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/dragongodtrophy"
+                android:text="@string/dragon_god_s_trophy"
+                android:onClick="showDragonGod"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/foolsIdolButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/foolsidoltrophy"
+                android:text="@string/fool_s_idol_s_trophy"
+                android:onClick="showFoolsIdol"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/maneaterTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/maneaterstrophy"
+                android:text="@string/maneater_s_trophy"
+                android:onClick="showManeater"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/oldMonkTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/oldmonktrophy"
+                android:text="@string/old_monk_s_trophy"
+                android:onClick="showOldMonk"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/adjudicatorTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/adjudicatortrophy"
+                android:text="@string/adjudicator_s_trophy"
+                android:onClick="showAdjudicator"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/oldHeroTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/oldherotrophy"
+                android:text="@string/old_hero_s_trophy"
+                android:onClick="showOldHero"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/stormKingTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/stormkingtrophy"
+                android:text="@string/storm_king_s_trophy"
+                android:onClick="showStormKing"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/leechmongerTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/leechmongertrophy"
+                android:text="@string/leechmonger_s_trophy"
+                android:onClick="showLeechmonger"
+                android:textSize="38sp" />
+
+            <Button
+                android:id="@+id/dirtyColossusTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/dirtycolossustrophy"
+                android:text="@string/dirty_colossus_trophy"
+                android:onClick="showDirtyColossus"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/maidenAstraeaTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/maidenastraeatrophy"
+                android:text="@string/maiden_astraea_s_trophy"
+                android:onClick="showMaidenAstraea"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/returnToFormTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/returntoformtrophy"
+                android:text="@string/return_to_form"
+                android:onClick="showReturnToForm"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/unwelcomeGuestTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/unwelcomeguest"
+                android:text="@string/unwelcome_guest"
+                android:onClick="showUnwelcomeGuest"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/oneShallFallTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/oneshallfall"
+                android:text="@string/one_shall_fall"
+                android:onClick="showOneShallFall"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/brotherInArmsTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/brotherinarmstrophy"
+                android:text="@string/brother_in_arms"
+                android:onClick="showBrotherInArms"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/fistsOfLegendTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/fistsoflegend"
+                android:text="@string/fists_of_legend"
+                android:onClick="showFistsOfLegend"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/timeForRollingTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/timeforrollingtropy"
+                android:text="@string/time_for_rolling"
+                android:onClick="showTimeForRolling"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/notFooledTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/notfooled"
+                android:text="@string/not_fooled"
+                android:onClick="showNotFooled"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/oneShallStandTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/oneshallstand"
+                android:text="@string/one_shall_stand"
+                android:onClick="showOneShallStand"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/mayYouBeUnharmedTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/mayyoubeunharmedtrophy"
+                android:text="@string/may_you_be_unharmed"
+                android:onClick="showMayYouBeUnharmed"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/seekestSoulPowerTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/seekestsoulpowertrophy"
+                android:text="@string/seekest_soul_power"
+                android:onClick="showSeekestSoulPower"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/aDashOfSageTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/adashofsagetrophy"
+                android:text="@string/a_dash_of_sage"
+                android:onClick="showADashOfSage"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/umbasaTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/umbasa"
+                android:text="@string/umbasa"
+                android:onClick="showUmbasa"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/worthyOfTheSwordTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/worthoftheswordtrophy"
+                android:text="@string/worthy_of_the_sword"
+                android:onClick="showWorthyOfTheSword"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/roadToPossibilitiesTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/roadtopossibilities"
+                android:text="@string/road_to_possibilities"
+                android:onClick="showRoadToPossibilities"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/oneOfTheFewTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/oneofthefewtrophy"
+                android:text="@string/one_of_the_few"
+                android:onClick="showOneOfTheFew"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/witchInTheTowerTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/witchinthetowertrophy"
+                android:text="@string/witch_in_the_tower"
+                android:onClick="showWitchInTheTower"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/legactOfTheKingsTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/legacyofthekings"
+                android:text="@string/legacy_of_the_kings"
+                android:onClick="showLegacyOfTheKings"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/sagesTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/sagestrophy"
+                android:text="@string/sage_s_trophy"
+                android:onClick="showSagesTrophy"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/saintsTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/saintstrophy"
+                android:text="@string/saint_s_trophy"
+                android:onClick="showSaintsTrophy"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/kingOfRingsTrophyButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:drawableTop="@drawable/kingofrings"
+                android:text="@string/king_of_rings"
+                android:onClick="showKingOfRings"
+                android:textSize="50sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

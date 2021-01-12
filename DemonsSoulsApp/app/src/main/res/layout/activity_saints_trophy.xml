@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".SaintsTrophyActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/saint_s_trophy"
+                android:textColor="@color/tan"
+                android:textSize="40sp" />
+
+            <ImageView
+                android:id="@+id/phalanxTrophyImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#000000"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/saintstrophy"
+                android:contentDescription="@string/picture_of_knight" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/sages_trophy_text"
+                android:textColor="@color/tan"
+                android:textSize="30sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/sages_trophy_guide"
+                android:textColor="@color/tan"
+                android:textSize="22sp" />
+
+                        <Button
+                android:id="@+id/antidoteButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showAntidote"
+                android:text="@string/antidote"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/antiMagicFieldButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showAntiMagicField"
+                android:text="@string/anti_magic_field"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/banishButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showBanish"
+                android:text="@string/banish"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/cureButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showCure"
+                android:text="@string/cure"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/evacuateButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showEvacuate"
+                android:text="@string/evacuate"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/godsWrathButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showGodsWrath"
+                android:text="@string/god_s_wrath"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/healButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showHeal"
+                android:text="@string/heal"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/hiddenSoulButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showHiddenSoul"
+                android:text="@string/hidden_soul"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/recoveryButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRecovery"
+                android:text="@string/recovery"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/regenerationButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRegeneration"
+                android:text="@string/regeneration"
+                android:textSize="42sp" />
+
+            <Button
+                android:id="@+id/resurrectionButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showResurrection"
+                android:text="@string/resurrection"
+                android:textSize="42sp" />
+
+            <Button
+                android:id="@+id/secondChanceButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showSecondChance"
+                android:text="@string/second_chance"
+                android:textSize="50sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

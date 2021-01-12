@@ -1,0 +1,1174 @@
+<resources>
+    <string name="app_name">Demon\'s Souls App</string>
+    <string name="augite_of_guidance">Augite of Guidance</string>
+    <string name="archstone_shard">Archstone Shard</string>
+    <string name="bearbug_grains">Bearbug Grains</string>
+    <string name="black_pine_resin">Black Pine Resin</string>
+    <string name="brass_telescope">Brass Telescope</string>
+    <string name="ceramic_coin">Ceramic Coin</string>
+    <string name="crescent_moon_grass">Crescent Moon Grass</string>
+    <string name="half_moon_grass">Half Moon Grass</string>
+    <string name="late_moon_grass">Late Moon Grass</string>
+    <string name="full_moon_grass">Full Moon Grass</string>
+    <string name="new_moon_grass">New Moon Grass</string>
+    <string name="dark_moon_grass">Dark Moon Grass</string>
+    <string name="fresh_spice">Fresh Spice</string>
+    <string name="aged_spice">Aged Spice</string>
+    <string name="ed_s_sharpening_stone">Ed\'s Sharpening Stone</string>
+    <string name="phosphorescent_grains">Phosphorescent Grains</string>
+    <string name="preservation_grains">Preservation Grains</string>
+    <string name="noble_s_lotus">Noble\'s Lotus</string>
+    <string name="soldier_s_lotus">Soldier\'s Lotus</string>
+    <string name="soul_remains">Soul Remains</string>
+    <string name="sticky_white_slime">Sticky White Slime</string>
+    <string name="stone_of_ephemeral_eyes">Stone of Ephemeral Eyes</string>
+    <string name="pine_resin">Pine Resin</string>
+    <string name="widow_s_lotus">Widow\'s Lotus</string>
+    <string name="bright_water">Bright Water</string>
+    <string name="elixir">Elixir</string>
+    <string name="grass_jelly">Grass Jelly</string>
+    <string name="cracked_eye_stone">Cracked Eye Stone</string>
+    <string name="gold_coin">Gold Coin</string>
+    <string name="black_eye_stone">Black Eye Stone</string>
+    <string name="blue_eye_stone">Blue Eye Stone</string>
+    <string name="red_eye_stone">Red Eye Stone</string>
+    <string name="white_eye_stone">White Eye Stone</string>
+    <string name="firebomb">Firebomb</string>
+    <string name="kunai">Kunai</string>
+    <string name="stealth_throwing_dagger">Stealth Throwing Dagger</string>
+    <string name="throwing_knife">Throwing Knife</string>
+    <string name="legendary_hero_soul">Legendary Hero Soul</string>
+    <string name="legendary_warrior_soul">Legendary Warrior Soul</string>
+    <string name="renowned_hero_soul">Renowned Hero Soul</string>
+    <string name="renowned_warrior_soul">Renowned Warrior Soul</string>
+    <string name="storied_hero_soul">Storied Hero Soul</string>
+    <string name="storied_warrior_soul">Storied Warrior Soul</string>
+    <string name="unknown_hero_soul">Unknown Hero Soul</string>
+    <string name="unknown_warrior_soul">Unknown Warrior Soul</string>
+    <string name="classes">Classes</string>
+    <string name="character_tendency">Character Tendency</string>
+    <string name="status_effects">Status Effects</string>
+    <string name="knight">Knight</string>
+    <string name="priest">Priest</string>
+    <string name="thief">Thief</string>
+    <string name="magician">Magician</string>
+    <string name="temple_knight">Temple Knight</string>
+    <string name="soldier">Soldier</string>
+    <string name="wanderer">Wanderer</string>
+    <string name="barbarian">Barbarian</string>
+    <string name="royalty">Royalty</string>
+    <string name="hunter">Hunter</string>
+    <string name="spells">Spells</string>
+    <string name="shields">Shields</string>
+    <string name="weapons">Weapons</string>
+    <string name="armor">Armor</string>
+    <string name="rings">Rings</string>
+    <string name="items">Items</string>
+    <string name="key_items">Key Items</string>
+    <string name="materials">Materials</string>
+    <string name="ammo">Ammo</string>
+    <string name="magic_spells">Magic Spells</string>
+    <string name="miracles">Miracles</string>
+    <string name="acid_cloud">Acid Cloud</string>
+    <string name="cloak">Cloak</string>
+    <string name="curse_weapon">Curse Weapon</string>
+    <string name="death_cloud">Death Cloud</string>
+    <string name="enchant_weapon">Enchant Weapon</string>
+    <string name="familiar_s_prank">Familiar\'s Prank</string>
+    <string name="fireball">Fireball</string>
+    <string name="fire_spray">Fire Spray</string>
+    <string name="firestorm">Firestorm</string>
+    <string name="flame_toss">Flame Toss</string>
+    <string name="homing_soul_arrow">Homing Soul Arrow</string>
+    <string name="ignite">Ignite</string>
+    <string name="light_weapon">Light Weapon</string>
+    <string name="poison_cloud">Poison Cloud</string>
+    <string name="protection">Protection</string>
+    <string name="relief">Relief</string>
+    <string name="soul_arrow">Soul Arrow</string>
+    <string name="Soul_Ray">Soul Ray</string>
+    <string name="soulsucker">Soulsucker</string>
+    <string name="soul_thirst">Soul Thirst</string>
+    <string name="warding">Warding</string>
+    <string name="water_veil">Water Veil</string>
+    <string name="antidote">Antidote</string>
+    <string name="anti_magic_field">Anti-Magic Field</string>
+    <string name="banish">Banish</string>
+    <string name="cure">Cure</string>
+    <string name="evacuate">Evacuate</string>
+    <string name="god_s_wrath">God\'s Wrath</string>
+    <string name="heal">Heal</string>
+    <string name="hidden_soul">Hidden Soul</string>
+    <string name="recovery">Recovery</string>
+    <string name="regeneration">Regeneration</string>
+    <string name="resurrection">Resurrection</string>
+    <string name="second_chance">Second Chance</string>
+    <string name="small_shields">Small Shields</string>
+    <string name="standard_shields">Standard Shields</string>
+    <string name="large_shields">Large Shields</string>
+    <string name="buckler">Buckler</string>
+    <string name="leather_shield">Leather Shield</string>
+    <string name="rune_shield">Rune Shield</string>
+    <string name="dregling_shield">Dregling Shield</string>
+    <string name="soldier_s_shield">Soldier\'s Shield</string>
+    <string name="wooden_shield">Wooden Shield</string>
+    <string name="dark_silver_shield">Dark Silver Shield</string>
+    <string name="heater_shield">Heater Shield</string>
+    <string name="kite_shield">Kite Shield</string>
+    <string name="knight_s_shield">Knight\'s Shield</string>
+    <string name="spiked_shield">Spiked Shield</string>
+    <string name="hoplite_shield">Hoplite Shield</string>
+    <string name="adjudicator_s_shield">Adjudicator\'s Shield</string>
+    <string name="large_brushwood_shield">Large Brushwood Shield</string>
+    <string name="purple_flame_shield">Purple Flame Shield</string>
+    <string name="steel_shield">Steel Shield</string>
+    <string name="tower_shield">Tower Shield</string>
+    <string name="daggers">Daggers</string>
+    <string name="straight_swords">Straight Swords</string>
+    <string name="large_swords">Large Swords</string>
+    <string name="very_large_swords">Very Large Swords</string>
+    <string name="curved_swords">Curved Swords</string>
+    <string name="katanas">Katanas</string>
+    <string name="thrusting_swords">Thrusting Swords</string>
+    <string name="axes">Axes</string>
+    <string name="large_axes">Large Axes</string>
+    <string name="ham_mers">Ham mers</string>
+    <string name="large_hammers">Large Hammers</string>
+    <string name="hammers">Hammers</string>
+    <string name="fist_weapons">Fist Weapons</string>
+    <string name="spears">Spears</string>
+    <string name="polearms">Polearms</string>
+    <string name="bows">Bows</string>
+    <string name="crossbows">Crossbows</string>
+    <string name="catalysts">Catalysts</string>
+    <string name="talismans">Talismans</string>
+    <string name="dagger">Dagger</string>
+    <string name="parry_dagger">Parry Dagger</string>
+    <string name="secret_dagger">Secret Dagger</string>
+    <string name="baby_s_nail">Baby\'s Nail</string>
+    <string name="blueblood_sword">Blueblood Sword</string>
+    <string name="broad_sword">Broad Sword</string>
+    <string name="broken_sword">Broken Sword</string>
+    <string name="long_sword">Long Sword</string>
+    <string name="knight_sword">Knight Sword</string>
+    <string name="kris_blade">Kris Blade</string>
+    <string name="penetrating_sword">Penetrating Sword</string>
+    <string name="rune_sword">Rune Sword</string>
+    <string name="short_sword">Short Sword</string>
+    <string name="bastard_sword">Bastard Sword</string>
+    <string name="claymore">Claymore</string>
+    <string name="demonbrandt">Demonbrandt</string>
+    <string name="flamberge">Flamberge</string>
+    <string name="large_sword_of_moonlight">Large Sword of Moonlight</string>
+    <string name="northern_regalia">Northern Regalia</string>
+    <string name="morion_blade">Morion Blade</string>
+    <string name="soulbrandt">Soulbrandt</string>
+    <string name="storm_ruler">Storm Ruler</string>
+    <string name="dragon_bone_smasher">Dragon Bone Smasher</string>
+    <string name="great_sword">Great Sword</string>
+    <string name="blind">Blind</string>
+    <string name="falchion">Falchion</string>
+    <string name="kilij">Kilij</string>
+    <string name="large_sword_of_searching">Large Sword of Searching</string>
+    <string name="scimitar">Scimitar</string>
+    <string name="shotel">Shotel</string>
+    <string name="hiltless">Hiltless</string>
+    <string name="magic_sword_quot_makoto_quot">Magic Sword \"Makoto\"</string>
+    <string name="uchigatana">Uchigatana</string>
+    <string name="epee_rapier">Epee Rapier</string>
+    <string name="estoc">Estoc</string>
+    <string name="gen_s_stiletto">Gen\'s Stiletto</string>
+    <string name="needle_of_eternal_agony">Needle of Eternal Agony</string>
+    <string name="mail_breaker">Mail Breaker</string>
+    <string name="rapier">Rapier</string>
+    <string name="spiral_rapier">Spiral Rapier</string>
+    <string name="battle_axe">Battle Axe</string>
+    <string name="guillotine_axe">Guillotine Axe</string>
+    <string name="crescent_axe">Crescent Axe</string>
+    <string name="dozer_axe">Dozer Axe</string>
+    <string name="great_axe">Great Axe</string>
+    <string name="ritual_blade">Ritual Blade</string>
+    <string name="bramd">Bramd</string>
+    <string name="great_club">Great Club</string>
+    <string name="meat_cleaver">Meat Cleaver</string>
+    <string name="club">Club</string>
+    <string name="mace">Mace</string>
+    <string name="morning_star">Morning Star</string>
+    <string name="pickaxe">Pickaxe</string>
+    <string name="war_pick">War Pick</string>
+    <string name="claws">Claws</string>
+    <string name="hands_of_god">Hands of God</string>
+    <string name="iron_knuckles">Iron Knuckles</string>
+    <string name="istarelle">Istarelle</string>
+    <string name="scraping_spear">Scraping Spear</string>
+    <string name="short_spear">Short Spear</string>
+    <string name="winged_spear">Winged Spear</string>
+    <string name="halberd">Halberd</string>
+    <string name="mirdan_hammer">Mirdan Hammer</string>
+    <string name="phosphorescent_pole">Phosphorescent Pole</string>
+    <string name="war_scythe">War Scythe</string>
+    <string name="reaper_scythe">Reaper Scythe</string>
+    <string name="compound_long_bow">Compound Long Bow</string>
+    <string name="compound_short_bow">Compound Short Bow</string>
+    <string name="lava_bow">Lava Bow</string>
+    <string name="long_bow">Long Bow</string>
+    <string name="short_bow">Short Bow</string>
+    <string name="white_bow">White Bow</string>
+    <string name="gargoyle_crossbow">Gargoyle Crossbow</string>
+    <string name="heavy_crossbow">Heavy Crossbow</string>
+    <string name="light_crossbow">Light Crossbow</string>
+    <string name="insanity_catalyst">Insanity Catalyst</string>
+    <string name="silver_catalyst">Silver Catalyst</string>
+    <string name="wooden_catalyst">Wooden Catalyst</string>
+    <string name="talisman_of_beasts">Talisman of Beasts</string>
+    <string name="talisman_of_god">Talisman of God</string>
+    <string name="ancient_king_s_set">Ancient King\'s Set</string>
+    <string name="binded_cross_set">Binded Cross Set</string>
+    <string name="black_leather_set">Black Leather Set</string>
+    <string name="brushwood_set">Brushwood Set</string>
+    <string name="chain_mail_set">Chain Mail Set</string>
+    <string name="dark_silver_set">Dark Silver Set</string>
+    <string name="dull_gold_set">Dull Gold Set</string>
+    <string name="fluted_set">Fluted Set</string>
+    <string name="gloom_set">Gloom Set</string>
+    <string name="leather_set">Leather Set</string>
+    <string name="mirdan_set">Mirdan Set</string>
+    <string name="old_raggedy_set">Old Raggedy Set</string>
+    <string name="plate_set">Plate Set</string>
+    <string name="rogue_s_set">Rogue\'s Set</string>
+    <string name="saint_s_set">Saint\'s Set</string>
+    <string name="shaman_s_set">Shaman\'s Set</string>
+    <string name="venerable_sage_s_set">Venerable Sage\'s Set</string>
+    <string name="wizard_s_set">Wizard\'s Set</string>
+    <string name="red_eye_knight_set">Red-Eye Knight Set</string>
+    <string name="boletarian_royalty_set">Boletarian Royalty Set</string>
+    <string name="official_s_set">Official\'s Set</string>
+    <string name="penetrator_set">Penetrator Set</string>
+    <string name="burrower_s_set">Burrower\'s Set</string>
+    <string name="imperial_spy_set">Imperial Spy Set</string>
+    <string name="blue_eye_knight_set">Blue-Eye Knight Set</string>
+    <string name="barbarian_set">Barbarian Set</string>
+    <string name="cat_ring">Cat Ring</string>
+    <string name="clever_rat_s_ring">Clever Rat\'s Ring</string>
+    <string name="cling_ring">Cling Ring</string>
+    <string name="dull_rat_s_ring">Dull Rat\'s Ring</string>
+    <string name="eternal_warrior_s_ring">Eternal Warrior\'s Ring</string>
+    <string name="foe_s_ring">Foe\'s Ring</string>
+    <string name="fragrant_ring">Fragrant Ring</string>
+    <string name="friend_s_ring">Friend\'s Ring</string>
+    <string name="graverobber_s_ring">Graverobber\'s Ring</string>
+    <string name="master_s_ring">Master\'s Ring</string>
+    <string name="regenerator_s_ring">Regenerator\'s Ring</string>
+    <string name="ring_of_avarice">Ring of Avarice</string>
+    <string name="ring_of_devout_prayer">Ring of Devout Prayer</string>
+    <string name="plague_resistance_ring">Plague Resistance Ring</string>
+    <string name="flame_resistance_ring">Flame Resistance Ring</string>
+    <string name="gash_resistance_ring">Gash Resistance Ring</string>
+    <string name="ring_of_great_strength">Ring of Great Strength</string>
+    <string name="ring_of_herculean_strength">Ring of Herculean Strength</string>
+    <string name="ring_of_magical_dullness">Ring of Magical Dullness</string>
+    <string name="ring_of_magical_nature">Ring of Magical Nature</string>
+    <string name="ring_of_magical_sharpness">Ring of Magical Sharpness</string>
+    <string name="ring_of_poison_resistance">Ring of Poison Resistance</string>
+    <string name="ring_of_sincere_prayer">Ring of Sincere Prayer</string>
+    <string name="ring_of_the_accursed">Ring of the Accursed</string>
+    <string name="ronin_s_ring">Ronin\'s Ring</string>
+    <string name="thief_ring">Thief Ring</string>
+    <string name="ring_of_longevity">Ring of Longevity</string>
+    <string name="providential_ring">Providential Ring</string>
+    <string name="sodden_ring">Sodden Ring</string>
+    <string name="ring_of_uneven_scales">Ring of Uneven Scales</string>
+    <string name="augite_of_souls">Augite of Souls</string>
+    <string name="bloody_iron_key">Bloody Iron Key</string>
+    <string name="copper_key">Copper Key</string>
+    <string name="iron_key_ring">Iron Key Ring</string>
+    <string name="character">Character</string>
+    <string name="equipment">Equipment</string>
+    <string name="world">World</string>
+    <string name="mausoleum_key">Mausoleum Key</string>
+    <string name="jade_hair_ornament">Jade Hair Ornament</string>
+    <string name="nexial_agent">Nexial Agent</string>
+    <string name="nexial_binding">Nexial Binding</string>
+    <string name="prison_of_hope_1f_cell_key">Prison of Hope 1F Cell Key</string>
+    <string name="prison_of_hope_1f_key">Prison of Hope 1F Key</string>
+    <string name="prison_of_hope_2f_east_key">Prison of Hope 2F East Key</string>
+    <string name="prison_of_hope_2f_west_key">Prison of Hope 2F West Key</string>
+    <string name="prison_of_hope_3f_cell_key">Prison of Hope 3F Cell Key</string>
+    <string name="prison_of_hope_3f_key">Prison of Hope 3F Key</string>
+    <string name="prison_of_hope_4f_cell_key">Prison of Hope 4F Cell Key</string>
+    <string name="prison_of_hope_4f_key">Prison of Hope 4F Key</string>
+    <string name="prison_of_hope_warden_s_key">Prison of Hope Warden\'s Key</string>
+    <string name="prison_of_hope_special_key">Prison of Hope Special Key</string>
+    <string name="rusted_key">Rusted Key</string>
+    <string name="vinland_crest">Vinland Crest</string>
+    <string name="hardstone_shard">Hardstone Shard</string>
+    <string name="large_hardstone_shard">Large Hardstone Shard</string>
+    <string name="hardstone_chunk">Hardstone Chunk</string>
+    <string name="pure_hardstone">Pure Hardstone</string>
+    <string name="sharpstone_shard">Sharpstone Shard</string>
+    <string name="large_sharpstone_shard">Large Sharpstone Shard</string>
+    <string name="sharpstone_chunk">Sharpstone Chunk</string>
+    <string name="pure_sharpstone">Pure Sharpstone</string>
+    <string name="clearstone_chunk">Clearstone Chunk</string>
+    <string name="pure_clearstone">Pure Clearstone</string>
+    <string name="clearstone_shard">Clearstone Shard</string>
+    <string name="greystone_shard">Greystone Shard</string>
+    <string name="greystone_chunk">Greystone Chunk</string>
+    <string name="pure_greystone">Pure Greystone</string>
+    <string name="bladestone_shard">Bladestone Shard</string>
+    <string name="bladestone_chunk">Bladestone Chunk</string>
+    <string name="pure_bladestone">Pure Bladestone</string>
+    <string name="dragonstone_shard">Dragonstone Shard</string>
+    <string name="dragonstone_chunk">Dragonstone Chunk</string>
+    <string name="pure_dragonstone">Pure Dragonstone</string>
+    <string name="suckerstone_shard">Suckerstone Shard</string>
+    <string name="suckerstone_chunk">Suckerstone Chunk</string>
+    <string name="pure_suckerstone">Pure Suckerstone</string>
+    <string name="mercurystone_shard">Mercurystone Shard</string>
+    <string name="mercurystone_chunk">Mercurystone Chunk</string>
+    <string name="pure_mercurystone">Pure Mercurystone</string>
+    <string name="marrowstone_shard">Marrowstone Shard</string>
+    <string name="marrowstone_chunk">Marrowstone Chunk</string>
+    <string name="pure_marrowstone">Pure Marrowstone</string>
+    <string name="moonlightstone_shard">Moonlightstone Shard</string>
+    <string name="moonlightstone_chunk">Moonlightstone Chunk</string>
+    <string name="moonshadestone_shard">Moonshadestone Shard</string>
+    <string name="moonshadestone_chunk">Moonshadestone Chunk</string>
+    <string name="pure_moonshadestone">Pure Moonshadestone</string>
+    <string name="faintstone_shard">Faintstone Shard</string>
+    <string name="faintstone_chunk">Faintstone Chunk</string>
+    <string name="pure_faintstone">Pure Faintstone</string>
+    <string name="spiderstone_shard">Spiderstone Shard</string>
+    <string name="spiderstone_chunk">Spiderstone Chunk</string>
+    <string name="pure_spiderstone">Pure Spiderstone</string>
+    <string name="cloudstone_shard">Cloudstone Shard</string>
+    <string name="cloudstone_chunk">Cloudstone Chunk</string>
+    <string name="pure_cloudstone">Pure Cloudstone</string>
+    <string name="demon_s_souls">Demon\'s Souls</string>
+    <string name="beast_demon_soul">Beast Demon Soul</string>
+    <string name="maiden_in_black_demon_soul">Maiden in Black Demon Soul</string>
+    <string name="colorless_demon_soul">Colorless Demon Soul</string>
+    <string name="doll_demon_soul">Doll Demon Soul</string>
+    <string name="dragon_demon_soul">Dragon Demon Soul</string>
+    <string name="eroded_demon_soul">Eroded Demon Soul</string>
+    <string name="false_king_demon_soul">False King Demon Soul</string>
+    <string name="golden_demon_soul">Golden Demon Soul</string>
+    <string name="gray_demon_soul">Gray Demon Soul</string>
+    <string name="hard_demon_soul">Hard Demon Soul</string>
+    <string name="hero_demon_soul">Hero Demon Soul</string>
+    <string name="iron_demon_soul">Iron Demon Soul</string>
+    <string name="large_scaled_flame_demon_soul">Large Scaled Flame Demon Soul</string>
+    <string name="lead_demon_soul">Lead Demon Soul</string>
+    <string name="mixed_demon_soul">Mixed Demon Soul</string>
+    <string name="pureblood_demon_soul">Pureblood Demon Soul</string>
+    <string name="searing_demon_soul">Searing Demon Soul</string>
+    <string name="silver_demon_soul">Silver Demon Soul</string>
+    <string name="storm_demon_soul">Storm Demon Soul</string>
+    <string name="swollen_demon_soul">Swollen Demon Soul</string>
+    <string name="writhing_demon_soul">Writhing Demon Soul</string>
+    <string name="arrow">Arrow</string>
+    <string name="black_bolt">Black Bolt</string>
+    <string name="bolt">Bolt</string>
+    <string name="fire_arrow">Fire Arrow</string>
+    <string name="heavy_arrow">Heavy Arrow</string>
+    <string name="holy_arrow">Holy Arrow</string>
+    <string name="light_arrow">Light Arrow</string>
+    <string name="rotten_arrow">Rotten Arrow</string>
+    <string name="white_arrow">White Arrow</string>
+    <string name="wooden_arrow">Wooden Arrow</string>
+    <string name="wooden_bolt">Wooden Bolt</string>
+    <string name="blacksmith_boldwin">Blacksmith Boldwin</string>
+    <string name="patches_the_hyena">Patches The Hyena</string>
+    <string name="dregling_merchant">Dregling Merchant</string>
+    <string name="filthy_man">Filthy Man</string>
+    <string name="filthy_woman">Filthy Woman</string>
+    <string name="blacksmith_ed">Blacksmith Ed</string>
+    <string name="once_royal_mistress">Once Royal Mistress</string>
+    <string name="graverobber_blige">Graverobber Blige</string>
+    <string name="sparkly_the_crow">Sparkly the Crow</string>
+    <string name="saint_urbain">Saint Urbain</string>
+    <string name="disciple_of_god">Disciple Of God</string>
+    <string name="sage_freke_the_visionary">Sage Freke the Visionary</string>
+    <string name="freke_s_apprentice">Freke\'s Apprentice</string>
+    <string name="yuria_the_witch">Yuria the Witch</string>
+    <string name="the_maiden_in_black">The Maiden in Black</string>
+    <string name="stockpile_thomas">Stockpile Thomas</string>
+    <string name="the_monumental">The Monumental</string>
+    <string name="mephistopholes">Mephistopholes</string>
+    <string name="biorr_of_the_twin_fangs">Biorr of the Twin Fangs</string>
+    <string name="crestfallen_warrior">Crestfallen Warrior</string>
+    <string name="worshipper_of_god">Worshipper of God</string>
+    <string name="acolyte_of_god">Acolyte of God</string>
+    <string name="ostrava_of_boletaria">Ostrava of Boletaria</string>
+    <string name="yurt_the_silent_chief">Yurt the Silent Chief</string>
+    <string name="executioner_miralda">Executioner Miralda</string>
+    <string name="old_king_doran">Old King Doran</string>
+    <string name="scirvir_the_wanderer">Scirvir the Wanderer</string>
+    <string name="lord_rydell">Lord Rydell</string>
+    <string name="satsuki">Satsuki</string>
+    <string name="selen_vinland">Selen Vinland</string>
+    <string name="garl_vinland">Garl Vinland</string>
+    <string name="npcs">NPCs</string>
+    <string name="enemies">Enemies</string>
+    <string name="locations">Locations</string>
+    <string name="bosses">Bosses</string>
+    <string name="world_tendency">World Tendency</string>
+
+    <string name="knight_bullet_point_equipment">
+        \n<li>Fluted Set</li>
+        \n<li>Long Sword</li>
+        \n<li>Mail Breaker</li>
+        \n<li>Kite Shield</li>
+</string>
+    <string name="knight_bullet_point_items">
+        \n<li>6 Crescent Moon Grasses</li>
+        \n<li>4 Half Moon Grasses</li>
+        \n<li>1 Noble Lotus</li>
+</string>
+
+    <string name="priest_bullet_point_equipment">
+        \n<li>Chain Mail Set</li>
+        \n<li>Mace</li>
+        \n<li>Talisman of God</li>
+        \n<li>Heater Shield</li>
+</string>
+    <string name="priest_bullet_point_items">
+        \n<li>3 Crescent Moon Grass</li>
+</string>
+
+    <string name="thief_bullet_point_equipment">
+        \n<li>Black Leather Set</li>
+        \n<li>Dagger</li>
+        \n<li>Short Bow</li>
+        \n<li>Buckler</li>
+</string>
+    <string name="thief_bullet_point_items">
+        \n<li>20 Arrows</li>
+        \n<li>10 Throwing Knives</li>
+        \n<li>8 Crescent Moon Grasses</li>
+</string>
+
+    <string name="magician_bullet_point_equipment">
+        \n<li>Wizard\'s Set</li>
+        \n<li>Short Sword</li>
+        \n<li>Wooden Catalyst</li>
+        \n<li>Leather Shield</li>
+</string>
+    <string name="magician_bullet_point_items">
+        \n<li>6 Crescent Moon Grass</li>
+        \n<li>6 Fresh Spice</li>
+</string>
+
+    <string name="temple_knight_bullet_point_equipment">
+        \n<li>Mirdan Set</li>
+        \n<li>Halberd</li>
+        \n<li>Talisman of God</li>
+        \n<li>Heater Shield</li>
+</string>
+    <string name="temple_knight_bullet_point_items">
+        \n<li>3 Crescent Moon Grass</li>
+</string>
+
+    <string name="soldier_bullet_point_equipment">
+        \n<li>Plate Set</li>
+        \n<li>Broad Sword</li>
+        \n<li>Short Spear</li>
+        \n<li>Soldier\'s Shield</li>
+</string>
+    <string name="soldier_bullet_point_items">
+        \n<li>20 Bolt</li>
+        \n<li>10 Crescent Moon Grass</li>
+        \n<li>4 Soldier\'s Lotus</li>
+</string>
+
+    <string name="wanderer_bullet_point_equipment">
+        \n<li>Leather Armor</li>
+        \n<li>Hard Leather Boots</li>
+        \n<li>Falchion</li>
+        \n<li>Dagger</li>
+        \n<li>Wooden Shield</li>
+</string>
+    <string name="wanderer_bullet_point_items">
+        \n<li>6 Crescent Moon Grasses</li>
+        \n<li>2 Soldier\'s Lotus</li>
+</string>
+
+    <string name="barbarian_bullet_point_equipment">
+        \n<li>Barbarian Set</li>
+        \n<li>2 Clubs</li>
+        \n<li>Wooden Shield</li>
+</string>
+    <string name="barbarian_bullet_point_items">
+        \n<li>5 Crescent Moon Grasses</li>
+        \n<li>3 Soul Remains</li>
+</string>
+
+    <string name="royalty_bullet_point_equipment">
+        \n<li>Wizard\'s Set</li>
+        \n<li>Silver Coronet</li>
+        \n<li>Rapier</li>
+        \n<li>Silver Catalyst</li>
+        \n<li>Buckler</li>
+        \n<li>Fragrant Ring</li>
+</string>
+    <string name="royalty_bullet_point_items">
+        \n<li>4 Half Moon Grasses</li>
+        \n<li>3 Royal Lotus</li>
+</string>
+
+    <string name="hunter_bullet_point_equipment">
+        \n<li>Leather Set</li>
+        \n<li>Battle Axe</li>
+        \n<li>Long Bow</li>
+        \n<li>Leather Shield</li>
+</string>
+    <string name="hunter_bullet_point_items">
+        \n<li>50 Arrows</li>
+        \n<li>10 Crescent Moon Grass</li>
+        \n<li>10 Augite of Guidance</li>
+</string>
+
+
+    <string name="picture_of_knight">Picture of Knight</string>
+    <string name="soul_level_4">Soul Level = 4</string>
+    <string name="vitality_10">Vitality = 10</string>
+    <string name="intelligence_11">Intelligence = 11</string>
+    <string name="endurance_11">Endurance = 11</string>
+    <string name="strength_14">Strength = 14</string>
+    <string name="dexterity_10">Dexterity = 10</string>
+    <string name="magic_10">Magic = 10</string>
+    <string name="faith_11">Faith = 11</string>
+    <string name="luck_7">Luck = 7</string>
+
+    <string name="the_knight_class_starts_with_this_equipment">\n\nThe Knight class starts with this equipment:</string>
+    <string name="the_knight_class_starts_with_these_items">\n\nThe Knight class starts with these items:</string>
+
+    <string name="the_priest_class_starts_with_this_equipment">\n\nThe Priest class starts with this equipment:</string>
+    <string name="the_priest_class_starts_with_these_items">\n\nThe Priest class starts with these items:</string>
+
+    <string name="the_thief_class_starts_with_this_equipment">\n\nThe Thief class starts with this equipment:</string>
+    <string name="the_thief_class_starts_with_these_items">\n\nThe Thief class starts with these items:</string>
+
+    <string name="the_magician_class_starts_with_this_equipment">\n\nThe Magician class starts with this equipment:</string>
+    <string name="the_magician_class_starts_with_these_items">\n\nThe Magician class starts with these items:</string>
+
+    <string name="the_temple_knight_class_starts_with_this_equipment">\n\nThe Temple Knight class starts with this equipment:</string>
+    <string name="the_temple_knight_class_starts_with_these_items">\n\nThe Temple Knight class starts with these items:</string>
+
+    <string name="the_soldier_class_starts_with_this_equipment">\n\nThe Soldier class starts with this equipment:</string>
+    <string name="the_soldier_class_starts_with_these_items">\n\nThe Soldier class starts with these items:</string>
+
+    <string name="the_wanderer_class_starts_with_this_equipment">\n\nThe Wanderer class starts with this equipment:</string>
+    <string name="the_wanderer_class_starts_with_these_items">\n\nThe Wanderer class starts with these items:</string>
+
+    <string name="the_barbarian_class_starts_with_this_equipment">\n\nThe Barbarian class starts with this equipment:</string>
+    <string name="the_barbarian_class_starts_with_these_items">\n\nThe Barbarian class starts with these items:</string>
+
+    <string name="the_royalty_class_starts_with_this_equipment">\n\nThe Royalty class starts with this equipment:</string>
+    <string name="the_royalty_class_starts_with_these_items">\n\nThe Royalty class starts with these items:</string>
+
+    <string name="the_hunter_class_starts_with_this_equipment">\n\nThe Hunter class starts with this equipment:</string>
+    <string name="the_hunter_class_starts_with_these_items">\n\nThe Hunter class starts with these items:</string>
+
+    <string name="soul_level_6">Soul Level = 6</string>
+    <string name="vitality_13">Vitality = 13</string>
+    <string name="endurance_15">Endurance = 15</string>
+    <string name="strength_10">Strength = 10</string>
+    <string name="dexterity_8">Dexterity = 8</string>
+    <string name="luck_8">Luck = 8</string>
+    <string name="faith_13">Faith = 13</string>
+    <string name="magic_8">Magic = 8</string>
+    <string name="soul_level_10">Soul Level = 10</string>
+    <string name="intelligence_10">Intelligence = 10</string>
+    <string name="endurance_10">Endurance = 10</string>
+    <string name="strength_9">Strength = 9</string>
+    <string name="dexterity_14">Dexterity = 14</string>
+    <string name="faith_8">Faith = 8</string>
+    <string name="luck_15">Luck = 15</string>
+    <string name="vitality_9">Vitality = 9</string>
+    <string name="intelligence_15">Intelligence = 15</string>
+    <string name="dexterity_11">Dexterity = 11</string>
+    <string name="magic_15">Magic = 15</string>
+    <string name="faith_6">Faith = 6</string>
+    <string name="luck_11">Luck = 11</string>
+    <string name="vitality_11">Vitality = 11</string>
+    <string name="intelligence_8">Intelligence = 8</string>
+    <string name="endurance_13">Endurance = 13</string>
+    <string name="dexterity_12">Dexterity = 12</string>
+    <string name="magic_6">Magic = 6</string>
+    <string name="vitality_14">Vitality = 14</string>
+    <string name="intelligence_9">Intelligence = 9</string>
+    <string name="endurance_12">Endurance = 12</string>
+    <string name="strength_12">Strength = 12</string>
+    <string name="faith_10">Faith = 10</string>
+    <string name="luck_10">Luck = 10</string>
+    <string name="strength_11">Strength = 11</string>
+    <string name="dexterity_15">Dexterity = 15</string>
+    <string name="magic_9">Magic = 9</string>
+    <string name="faith_7">Faith = 7</string>
+    <string name="luck_13">Luck = 13</string>
+    <string name="soul_level_9">Soul Level = 9</string>
+    <string name="vitality_15">Vitality = 15</string>
+    <string name="intelligence_7">Intelligence = 7</string>
+    <string name="strength_15">Strength = 15</string>
+    <string name="dexterity_9">Dexterity = 9</string>
+    <string name="magic_11">Magic = 11</string>
+    <string name="soul_level_1">Soul Level 1</string>
+    <string name="vitality_8">Vitality = 8</string>
+    <string name="intelligence_12">Intelligence = 12</string>
+    <string name="endurance_8">Endurance = 8</string>
+    <string name="magic_13">Magic = 13</string>
+    <string name="faith_12">Faith = 12</string>
+    <string name="vitality_12">Vitality = 12</string>
+    <string name="luck_12">Luck = 12</string>
+    <string name="the_spiritual_standing_of_your_character_is_affected_by_your_choices_the_strength_of_your_spirit_shifts_as_your_character_tendency_approaches_white_or_black">The spiritual standing of your character is affected by your choices. The strength of your spirit shifts as your character tendency approaches white or black</string>
+    <string name="character_tendency_is_tied_to_your_character_and_should_not_be_confused_with_world_tendency_which_is_tied_to_the_world_character_tendency_goes_towards_white_the_more_positive_actions_you_take_and_will_go_towards_black_the_more_negative_actions_you_take_both_white_and_black_character_tendency_have_their_own_unique_effects_on_the_character">\nCharacter tendency is tied to your character and should not be confused with world tendency which is tied to the world. Character Tendency goes towards white the more positive actions you take and will go towards black the more negative actions you take. Both white and black character tendency have their own unique effects on the character.</string>
+    <string name="note_if_you_are_planning_to_achieve_both_pure_black_and_pure_white_character_tendency_it_would_be_faster_to_achieve_pure_white_first_then_pure_black_since_going_from_pure_black_to_pure_white_will_require_at_least_two_completions_of_the_game">\nNote: If you are planning to achieve both pure black and pure white character tendency it would be faster to achieve pure white first then pure black since going from pure black to pure white will require at least two completions of the game</string>
+    <string name="to_shift_your_character_tendency_towards_white_you_will_need_to_directly_kill_the_following_five_named_black_phantom_npcs_in_the_world_or_kill_a_player_black_phantom_in_either_your_world_or_another_world_killing_the_other_black_phantoms_that_appear_throughout_the_game_do_not_shift_your_character_tendency_towards_white_only_killing_the_following_five_named_black_phantom_npcs_will">\nTo shift your character tendency towards white you will need to directly kill the following named black phantom NPCs in the world or kill a player black phantom in either your world or another world. Killing the other black phantoms that appear throughout the game do not shift your character tendency towards white, only killing the following named black phantom NPCs will.</string>
+    <string name="black_phantom_npcs_white_character_tendency">
+        \n<li>Gates of Boletaria - Executioner Miralda</li>
+        \n<li>The Tunnel City - Scirvir, the Wanderer</li>
+        \n<li>Prison of Hope - Lord Rydell</li>
+        \n<li>The Ivory Tower - Old Monk in online mode</li>
+        \n<li>Island\'s Edge - Satsuki</li>
+        \n<li>Swamp of Sorrows - Selen Vinland</li>
+</string>
+    <string name="make_sure_to_kill_all_these_black_phantoms_directly_do_not_let_them_fall_to_their_death_don_t_kill_them_with_acid_cloud_or_with_soulsucker_spell">\nMake sure to kill all these black phantoms directly. Do not let them fall to their death, don\'t kill them with acid cloud or with soulsucker spell</string>
+    <string name="to_shift_your_character_tendency_towards_black_you_need_to_kill_innocent_npcs_or_kill_the_host_as_a_black_phantom_if_you_need_some_guidance_here_are_a_few_that_shouldn_t_affect_your_game_much_although_it_is_recommended_to_get_pure_black_character_tendency_towards_the_end_of_the_game_so_that_the_npcs_will_respawn_upon_entering_new_game_plus_your_character_tendency_however_will_not_reset_if_you_enter_new_game_plus">\nTo shift your character tendency towards black you need to kill innocent NPCs or kill the host as a black phantom. If you need some guidance here are a few that shouldn\'t affect your game much although it is recommended to get pure black character tendency towards the end of the game so that the NPCs will respawn upon entering New Game Plus. Your character tendency will not reset if you enter New Game Plus.</string>
+    <string name="trophies">Trophies</string>
+    <string name="roadmap">Roadmap</string>
+    <string name="slayer_of_trophies">Slayer of Trophies</string>
+    <string name="all_trophies_obtained">All Trophies Obtained</string>
+    <string name="phalanx_s_trophy">Phalanx\'s Trophy</string>
+    <string name="slayer_of_demon_phalanx">Slayer of Demon \"Phalanx\"\n\n</string>
+    <string name="slayer_of_demon_tower_knight">Slayer of Demon \"Tower Knight\"\n\n</string>
+    <string name="slayer_of_demon_penetrator">Slayer of Demon \"Penetrator\"\n\n</string>
+    <string name="slayer_of_demon_false_king">Slayer of Demon \"False King\"\n\n</string>
+    <string name="slayer_of_demon_armor_spider">Slayer of Demon \"Armor Spider\"\n\n</string>
+    <string name="slayer_of_demon_flamelurker">Slayer of Demon \"Flamelurker\"\n\n</string>
+    <string name="slayer_of_demon_dragon_god">Slayer of Demon \"Dragon God\"\n\n</string>
+    <string name="slayer_of_demon_fools_idol">Slayer of Demon \"Fool\'s Idol\"\n\n</string>
+    <string name="slayer_of_demon_maneater">Slayer of Demon \"Maneater\"\n\n</string>
+    <string name="slayer_of_demon_old_monk">Slayer of Demon \"Old Monk\"\n\n</string>
+    <string name="slayer_of_demon_adjudicator">Slayer of Demon \"Adjudicator\"\n\n</string>
+    <string name="slayer_of_demon_old_hero">Slayer of Demon \"Old Hero\"\n\n</string>
+    <string name="slayer_of_demon_storm_king">Slayer of Demon \"Storm King\"\n\n</string>
+    <string name="slayer_of_demon_leechmonger">Slayer of Demon \"Leechmonger\"\n\n</string>
+    <string name="slayer_of_demon_dirty_colossus">Slayer of Demon \"Dirty Colossus\"\n\n</string>
+    <string name="slayer_of_demon_maiden_astraea">Slayer of Demon \"Maiden Astraea\"\n\n</string>
+    <string name="tower_knight_s_trophy">Tower Knight\'s Trophy</string>
+    <string name="penetrator_s_trophy">Penetrator\'s Trophy</string>
+    <string name="false_king_s_trophy">False King\'s Trophy</string>
+    <string name="armor_spider_s_trophy">Armor Spider\'s Trophy</string>
+    <string name="flamelurker_s_trophy">Flamelurker\'s Trophy</string>
+    <string name="dragon_god_s_trophy">Dragon God\'s Trophy</string>
+    <string name="fool_s_idol_s_trophy">Fool\'s Idol\'s Trophy</string>
+    <string name="maneater_s_trophy">Maneater\'s Trophy</string>
+    <string name="old_monk_s_trophy">Old Monk\'s Trophy</string>
+    <string name="adjudicator_s_trophy">Adjudicator\'s Trophy</string>
+    <string name="old_hero_s_trophy">Old Hero\'s Trophy</string>
+    <string name="storm_king_s_trophy">Storm King\'s Trophy</string>
+    <string name="leechmonger_s_trophy">Leechmonger\'s Trophy</string>
+    <string name="dirty_colossus_trophy">Dirty Colossus\' Trophy</string>
+    <string name="maiden_astraea_s_trophy">Maiden Astraea\'s Trophy</string>
+    <string name="return_to_form">Return to Form</string>
+    <string name="unwelcome_guest">Unwelcome Guest</string>
+    <string name="one_shall_fall">One Shall Fall</string>
+    <string name="brother_in_arms">Brother-in-Arms</string>
+    <string name="fists_of_legend">Fists of Legend</string>
+    <string name="time_for_rolling">Time for Rolling</string>
+    <string name="not_fooled">Not Fooled</string>
+    <string name="one_shall_stand">One Shall Stand</string>
+    <string name="may_you_be_unharmed">May you be unharmed</string>
+    <string name="seekest_soul_power">Seekest Soul Power</string>
+    <string name="a_dash_of_sage">A Dash of Sage</string>
+    <string name="umbasa">Umbasa</string>
+    <string name="worthy_of_the_sword">Worthy of the Sword</string>
+    <string name="road_to_possibilities">Road to Possibilities</string>
+    <string name="one_of_the_few">One of the few</string>
+    <string name="witch_in_the_tower">Witch in the Tower</string>
+    <string name="legacy_of_the_kings">Legacy of the Kings</string>
+    <string name="sage_s_trophy">Sage\'s Trophy</string>
+    <string name="saint_s_trophy">Saint\'s Trophy</string>
+    <string name="king_of_rings">King of Rings</string>
+    <string name ="phalanx_trophy_guide">Phalanx is the Boss of 1–1 Boletarian Palace: Gates of Boletaria and is the first boss in the game. \n\n The Phalanx boss itself is will be keeping it\'s distance from you and doesn\'t actually attack you, while the Hoplites surrounding it will be the ones actually attacking you. Both the Phalanx and the Hoplites are weak to fire so you should first kill the surrounding Hoplites and when there is an opening to attack the Phalanx attack it with fire damage.\n\n Since this is early on in the game you can only use firebombs and pine resin for sources of fire damage. If you started as a magician you can also you the Flame Toss spell.</string>
+    <string name = "tower_knight_trophy_guide">Tower Knight is the boss of 1–2 Boletarian Palace:The Lord\'s Path.\n\n
+        Tower Knight is surrounded by archers which will be firing arrows down at you while you fight the Tower Knight. Run past the Tower Knight and eliminate the archers to make the fight easier. In order to get the One Shall Fall trophy you cannot eliminate the archers so it is recommended to fight the Tower Knight around the entryway to avoid as many of the archers as possible. \n\n
+        Tower Knight\'s weakness is it\'s ankles, keep attacking it\'s ankles (the ankles will have a blue aura around them the more your attack them so you can see that it is taking damage) until it falls down. Once Tower Knight falls down, massive damage can be done by attacking it\'s head. Continue this process until it is dead.\n\n You can also aim at it\'s torso with a bow/magic which might make the fight faster if you are using ranged attacks. </string>
+    <string name = "penetrator_trophy_guide">Penetrator is the boss of 1–3 Boletarian Palace: Inner Ward. \n\n Before fighting Penetrator you should rescue Biorr which will give you the trophy Brother-in-Arms and help with the fight since Penetrator will focus on Biorr a lot which will give you an opening to attack. \n\n To rescue Biorr follow the following steps:\n
+        \n<li>1. Go to the Boletarian Palace: Inner Ward archstone.\n</li>
+        \n<li>2. Proceed through the level until you can kill the first fat official. He should drop an Iron Key Ring.\n</li>
+        \n<li>3. Go back to the Boletarian Palace: Inner Ward archstone but instead of going the way you did in step 1, turn around towards the Blue Eye Knights. To the right of the Blue Eye Knight facing away from you there should be a door you can unlock.\n</li>
+        \n<li>4. Proceed down through the unlocked door and Biorr should be down there. Free him and go to the Penetrator boss fight and he will assist you during the fight which will also give you the trophy once Penetrator has been defeated.</li></string>
+    <string name ="false_king_trophy_guide">False King is the boss of 1–4 Boletarian Palace: The King\'s Tower. \n\n Old King Allant always starts the fight with a lunge attack which you can roll for an opening. Keeping your distance from him is a good strategy since he tends to do the lunging attack to close the distance. If you see him charging an attack with wind effects around him either run very far away from him since this move does massive damage or interrupt it since it only takes one hit to do so. The main move you should watch out for is his Soulsucker spell since it will delevel you, the way to tell if he will do this move is if his hand starts to have a blue aura around it.</string>
+    <string name = "armor_spider_trophy_guide">Armor Spider is the boss of 2–1 Stonefang Tunnel: Smithing Grounds.\n\n Before fighting Armor Spider you may want to equip the Flame Resistance Ring since Armor Spider uses a lot of fire based attacks. Once you begin the fight you have to proceed down the tunnel towards armor spider while dodging it\'s flame and web attacks. When you get close enough it will start to do physical attacks which you can dodge. Armor Spider may start to cover the tunnel in black oil and when it does the only way to get away is by running back to the start of the tunnel.</string>
+    <string name = "flamelurker_trophy_guiide">
+        Flamelurker is the boss of 2–2 Stonefang Tunnel: The Tunnel City. \n\n
+        Flamelurker is a very aggressive boss who will also deal fire damage to you so the Flame Resistance Ring can help here as well.
+        Ranged attacks work on him very well but going in with melee attacks may prove troublesome.
+        Focus on dodging when it gets overly aggressive and heal when it is jumping around.</string>
+    <string name = "dragon_god_trophy_guide">
+        Dragon God is the boss of 2-3 Stonefang Tunnel: Underground Temple. \n\n You won\'t be attacking Dragon God directly instead you need to make your way towards the two ballistas on either side of the arena. Hide behind pillars and use ranged attacks on the debris to clear it. If you don\'t want to use ranged attacks, clear the debris with melee attacks while dragon god is not looking in your direction. Continues doing this until you press the button on both ballistas, once both have been used Dragon God will fall and his head can easily be attacked, but be sure to avoid his breath since it will hurt you. Make sure the finishing blow comes from the Hands of God weapon to get the Fists of Legend trophy. If you don\'t have the Hands of God weapon follow these steps to get them: \n
+        \n<li>1. Go to the Underground Temple archstone\n</li>
+        \n<li>2. Instead of going towards Dragon God go the opposite direction and keep going straight until you find three rockworms\n</li>
+        \n<li>3. The item behind the three rockworms are the Hands of God.</li></string>
+    <string name = "fools_idol_trophy_guide">
+        Fool\'s Idol is the boss of 3–1 Tower of Latria: Prison of Hope. \n\n Before entering the fight with the Fool\'s Idol the prisoner in the tower above needs to be killed otherwise you can never permanently kill the Fool\'s Idol.If you need help finding the prisoner in the tower follow these steps:\n
+        \n<li>1. Locate the giant ballista that shoots the volley of arrows and face the boss arena.\n</li>
+        \n<li>2. Head to the tower on your right and continue forward until you find the door which should lead you to the prisoner who is casting magic. \n</li>
+        \n<li>3. Kill him and proceed to Fool\'s Idol boss.</li>\n\n
+        When the fight begins you should run straight to her and get in as much damage as you can before she teleports and creates clones of herself. Once she teleports she will now have clones of herself and traps on the floor around the arena. An easy way to determine the difference between a clone and the real boss is to lock on to each one, the clones will have small health bars above them while the real boss will not. This will also assist you to get the Not Fooled trophy. As the fight goes on the strategy remains the same there are just more clones and traps to deal with.</string>
+    <string name = "maneaters_trophy_guide">
+        Maneater is the boss of 3-2 Tower of Latria: Upper Latria.\n\n
+        This fight is a bit tricky since the arena doesn\'t give you a lot to work with.
+        The biggest move you have to watch out for is when Maneater dashes towards you, the best way to avoid this is by dodging in the direction of Maneater so that you don\'t fall off the side of the arena.
+        If you need to heal you should run towards the brazier and heal around that area since it\'ll give you some cover from Maneater.\n\n
+        Once you get the first Maneater\'s health low enough a second Maneater will come in to fight you as well.
+        Once this happens you should still focus on the first Maneater and then repeat the same strategy on the second one.
+    </string>
+    <string name = "old_monk_trophy_guide">
+        Old Monk is the boss of 3-3 Tower of Latria: The Ivory Tower.\n\n
+        For this fight you have the option of either playing online or offline. If you choose to play online Old Monk will summon a player into your world and you will have to duel them as the boss. In this instance there isn\'t a strategy since each fight will be unique.\n\n
+        If you choose to play in offline mode you fight an NPC black phantom and this one isn\'t very difficult. You can use the chairs around the room to bait out an attack from the NPC which will give you an opening to attack. Be careful later on in the fight as they will start to use the Homing Soul Arrow spell on you.
+    </string>
+    <string name = "adjudicator_trophy_guide">
+        Adjudicator is the boss of 4-1 Shrine of Storms: Island\'s Edge.\n\n
+        Adjudicator has a weak spot on the top of his head which can be attacked with either magic spells or arrows from the upper levels and this is the recommended route if you are going for the One Shall Stand trophy. Just be careful of his tongue or cleaver attacks.\n\n
+        If you choose to go the melee route then you can instead go to the bottom level and attack the meat cleaver stuck in his stomach. Once you attack it enough the Adjudicator will fall, giving you an opening to attack the bird on his head.
+    </string>
+    <string name = "old_hero_trophy_guide">
+        Old Hero is the boss of 4-2 Shrine of Storms: The Ritual Path.\n\n
+        Although not required for the fight the Thief Ring can be beneficial in this fight since Old Hero is blind and determines your location by the sounds you make.\n\n
+        Old Hero is another fight where ranged attacks will be far easier than melee attacks but if you do try to go the melee route make sure to be patient and only go for one or two attacks before running away from him.
+    </string>
+    <string name = "storm_king_trophy_guide">
+        Storm King is the boss of 4-3 Shrine of Storms: Altar of Storms.\n\n
+        The very first thing you should do, especially if you are a melee build, is to run straight to the Storm Ruler weapon towards the edge of the arena. This weapon will allow you to make giant wind attacks that will reach the Storm Beasts and the Storm Ruler himself. This isn\'t required if you are using ranged attacks since you can attack Storm Ruler with your spells/arrows and will probably be easier than using the Storm Ruler.\n\n
+        Once you pick off enough of the Storm Beasts, Storm Ruler will fly down and shoot a barrage of crystals at you. Take cover until the barrage ends and start to attack with your weapon of choice until Storm King is dead.
+    </string>
+    <string name = "leechmonger_trophy_guide">
+        Leechmonger is the boss of 5-1 Valley of Defilement: Depraved Chasm.\n\n
+        Leechmonger is very easy to fight all you need to do is use some sort of fire damage. You can use any of the Fire spells or Pine Resin/Firebombs. \n\n
+        The only things you may want to look out for is when he shoots a ball of leeches, if it hits you it will drain your health slowly. He can also regenerate his own health, when this happens you can attack his midsection to slow down the regeneration but you will probably deal damage faster than he can regenerate anyway.
+    </string>
+    <string name = "dirty_colossus_trophy_guide">
+        Dirty Colossus is the boss of 5-2 Valley of Defilement: Swamp of Sorrow.\n\n
+        Dirty Colossus is also very weak to fire so use any fire spells or pine resin/firebombs and stay behind him.\n\n
+        The only move to watch out for is when you have flies swarming you which will drain your health slowly. If this happens go to the torches around the arena and touch them to get them off of you.
+    </string>
+    <string name = "maiden_astraea_trophy_guide">
+        Maiden Astraea is the boss of 5-3 Valley of Defilement: Rotting Haven.\n\n
+        Maiden Astraea is an interesting boss because she doesn\'t attack you at all, you only need to watch out for her protector Garl Vinland. The easiest way to do this which will also net you the trophy May you be unharmed will be to attack her with arrows since magic attacks will not reach her. Find a spot opposite Garl Vinland and make fire away, make sure you have enough arrows since it will take a lot of them.\n\n
+        If you choose to fight Garl Vinland be prepared since he is a very tough enemy. You can either dodge his attacks and attack when he gives you an opening or try to parry his attacks. Either way you will need a lot of patience since he has a lot of health and won\'t die easy. Once he is defeated go to Maiden Astraea and talk to her and she will die. Be careful of the swamp since it will plague you instantly and does a lot of damage.
+    </string>
+    <string name = "return_to_form_text">Help a player vanquish a boss\n\n</string>
+    <string name = "return_to_form_trophy_guide">
+        In order to get this trophy you have to be summoned into another player\'s world. To do this you have to be in soul form and place your soul sign outside a demon\'s fog gate. To place a soul sign use the Blue Eye Stone. Try to do this at lower levels since you can only be summoned by players around your level and there are probably more players at lower levels.\n\n
+        It\'s far easier to do this if you have a friend to summon you, just enter the Network settings in game and set a password and give that password to your friend so they can join your world.
+    </string>
+    <string name = "unwelcome_guest_text">Vanquish a player as an invader\n\n</string>
+    <string name = "unwelcome_guest_trophy_guide">
+        To get this trophy you need to invade another player\'s world and kill them. In order to invade another player\'s world you have to be in soul form then use the Black Eye Stone while in a world. In order to get this stone you must defeat any nameless NPC Black Phantom.\n\n
+        After you invade the other player\'s world you have to hunt down the player and kill them. If the player dies in another way that also counts towards the trophy. \n\n
+        Although it isn\'t that hard to do this you can invade a friends world to make getting this easier. Enter the Network settings in game and set a password and give that password to your friend so they can invade your world or vice-versa.
+    </string>
+    <string name = "one_shall_fall_text">Vanquish the Tower Knight without killing any archers\n\n</string>
+    <string name = "one_shall_fall_trophy_guide">
+        The Tower Knight\'s Trophy guide will help in unlocking this trophy.
+    </string>
+    <string name = "brother_in_arms_text">Vanquish Penetrator with Biorr\n\n</string>
+    <string name = "brother_in_arms_trophy_guide">
+        The Penetrator\'s Trophy guide will help in unlocking this trophy.
+    </string>
+    <string name = "fists_of_legends_text">Vanquish Dragon God with the Hands of God\n\n</string>
+    <string name = "fists_of_legends_trophy_guide">
+        The Dragon God\'s Trophy guide will help in unlocking this trophy.
+    </string>
+    <string name = "time_for_rolling_text">Cross the walkway through the Idol\'s volley of arrows\n\n</string>
+    <string name = "time_for_rolling_trophy_guide">
+        The ballista is located in 3-1 Tower of Latria: Prison of Hope. You have to cross the bridge that is filled with items where the ballista is constantly shooting. \n\n
+        In order to get this achievement you need to make sure not to turn the ballista off going the normal route.\n\n
+        You need to time your rolls so that each roll goes through each volley of arrows. After making it to the other side, turn the ballista off and you should get the trophy.
+    </string>
+    <string name = "not_fooled_text">Vanquish the Fool\'s Idol without hitting any clones\n\n</string>
+    <string name = "not_fooled_trophy_guide">
+        The Fool\'s Idol\'s Trophy guide will help in unlocking this trophy.
+    </string>
+    <string name = "one_shall_stand_text">Vanquish Adjudicator without having him fall down\n\n</string>
+    <string name = "one_shall_stand_trophy_guide">
+        The Adjudicator\'s Trophy guide will help in unlocking this trophy.
+    </string>
+    <string name = "may_you_be_unharmed_text">Vanquish Maiden Astraea without killing Garl Vinland\n\n</string>
+    <string name = "may_you_be_unharmed_trophy_guide">
+        The Maiden Astraea\'s Trophy guide will help in unlocking this trophy.
+    </string>
+    <string name = "seekest_soul_power_text">Embrace the power of the Old One\n\n</string>
+    <string name = "seekest_soul_power_trophy_guide">
+        This trophy guide containt SPOILERS so be careful reading further if you don\'t want things to get spoiled.\n\n
+        At the very end of the game after you beat King Allant below the Nexus instead of leaving the area you should kill the Maiden in Black which will net you the trophy.
+    </string>
+    <string name = "a_dash_of_sage_text">Rescue Sage Freke the Visionary\n\n</string>
+    <string name = "a_dash_of_sage_trophy_guide">
+        Sage Freke can be found captive in 3-1 Tower of Latria: Prison of Hope. You will need the Prison of Hope Special Key in order to free him from his cell.
+        To find this key and rescue Sage Frekefollow these steps. \n\n
+        \n<li>1. Locate the giant ballista that shoots the volley of arrows and face the boss arena where the Fool\'s Idol is/was.\n</li>
+        \n<li>2. Head to the tower on your right and continue forward until you find the door which should lead you to the prisoner who is casting magic, the key is behind him. \n</li>
+        \n<li>3. Once you have the key go to the Prison of Hope archstone.\n</li>
+        \n<li>4. Go to the path on the right and continue forward until you reach a gate on your left with a Mindflayer on a balcony (past the prisoners blocking your path)</li>\n
+        \n<li>5. Continue there until you are at a fork with two Mindflayers go left here and continue down that path until you reach an area where you can either go down a set of stairs or forward, go forward here.\n</li>
+        \n<li>6. There should be a few cells here, Sage Freke is the last cell. Open the door and talk to him, the trophy should pop.\n</li>
+    </string>
+    <string name = "umbasa_text">Rescue Saint Urbain\n\n</string>
+    <string name = "umbasa_trophy_guide">
+        Saint Urbain is located in 4-2 Shrine of Storms: The Ritual Path. To find him follow these steps: \n\n
+        \n<li>1. Go to the Shrine of Storms: The Ritual Path archstone and continue forward until you are at the first room with the Reaper and Shadowlurkers.\n</li>
+        \n<li>2. Locate the steps that lead up to the reaper, but don\'t go up the steps instead go to the doorway to the right of them.\n</li>
+        \n<li>3. Here you will find Patches the Hyena, talk to him and look down into the pit.\n</li>
+        \n<li>4. Once you are pushed into the pit kill the Black Phantom guarding the door and talk to Saint Urbain.\n </li>
+        \n<li>5. Open the door to leave this area and the trophy should pop.</li>
+    </string>
+    <string name = "worthy_of_the_sword_text">Deliver Makoto to Satsuki.\n\n</string>
+    <string name = "worth_of_the_sword_trophy_guide">
+        Before anything in order for Satsuki to appear in your world you must have Pure White World Tendency in World 4: Shrine of Storms.\n\n
+        Once you get Pure White World Tendency head to the area where you rescued Saint Urbain in 4-2 Shrine of Storms: The Ritual Path.
+        There used to be an item that was on top of the pillar making it unreachable but with Pure White World Tendency it should be on the ground, pick it up and head to 4-1 Shrine of Storms: Island\'s Edge.\n\n
+        Here to the right of the first Silver Skeleton in the archway you should see Satsuki. With the sword not equipped exhaust dialog with Satsuki until he decides to become hostile. You should get thr trophy right as you give him the sword.
+    </string>
+    <string name = "road_to_possibilities_text">Give the Searing Demon Soul to Blacksmith Ed.\n\n</string>
+    <string name = "road_to_possibilities_trophy_guide">
+        The item you need for this is the Searing Demon Soul which you will get from Flamelurker in 2-2 Stonefang Tunnel: The Tunnel City. \n\n
+        Once you have this soul you must take it to Blacksmith Ed. Blacksmith Ed is located at the very bottom of the elevator in 2-1 Stonefang Tunnel: Smithing Grounds behind the filthy man merchant.\n\n
+        If the elevator is inactive follow these steps to get it activated:\n
+        \n<li>1. Go to the Stonefang Tunnel: Smithing Grounds archstone and continue through the level until you get to the area that forks between a lava pit and a few Scale Miners. (Past the second Fat Official)\n</li>
+        \n<li>2. Go towards the scale miners until you reach the outside\n</li>
+        \n<li>3. Go to the right and there should be a wheel that you can turn. Once you turn it the elevator will work.\n</li>
+    </string>
+    <string name = "one_of_the_few_text">Obtain Istarelle.\n\n</string>
+    <string name = "one_of_the_few_trophy_guide">
+        In order to get Istarelle you will need to have Pure White World Tendency in World 5: Valley of Defilement .\n\n
+        Once you have gotten Pure White World Tendency you should follow these steps to locate Istarelle.\n
+        \n<li>1. Go to the 5-1 Valley of Defilement: Depraved Chasm archstone and continue through the level until you reach a point where you see a bunch of rats.\n</li>
+        \n<li>2. On the wooden walkway where a boulder was dropped there should be a ladder on the walkway to the left.\n</li>
+        \n<li>3. Go up the ladder and continue down the (fairly long) path filled with Depraves Ones and Giant Depraves Ones, until you reach the Istarelle which should be glowing white. Once you take it the trophy should unlock.\n</li>
+    </string>
+    <string name = "witch_in_the_tower_text">Rescue Yuri the Witch.\n\n</string>
+    <string name = "yuria_the_witch_trophy_guide">
+        Yuria the Witch is located in 1-3 Boletarian Palace: Inner Ward. There are a few things that you need to do before you can actually free her.\n
+        \n-You will need the Iron Key Ring from the first Fat Official you kill in 1-3 Boletarian Palace: Inner Ward. \n
+        \n-After that first Fat Official there will be a second one that drops an Official\'s Cap, you need this as well.\n
+        \n-You will need the Bloody Iron Key, you can get this from killing the Fat Official in the room that has Biorr of the Twin Fangs in it.\n
+        \n-In world 2 Stonefang Tunnel, you can loot the Official\'s Gloves and Leggings from the Fat Officials in 2-1 Stonefang Tunnel: Smithing Grounds. In 2-2 Stonefang Tunnel: The Tunnel City if you go left at the fork there\'s another Fat Official who can drop the Official\'s Clothes. You need the entire set.\n\n\n
+        Once you have all these follow these steps to locate Yuria the Witch:\n
+        \n<li>1. Go to 1-3 Boletarian Palace: Inner Ward and continue until you get to the courtyard with the dogs.\n</li>
+        \n<li>2. Instead of going up the big set of stairs go into the alley on the opposite side of the stairs. Use the Bloody Iron Key on the door here.\n</li>
+        \n<li>3. Make sure you have the Official\'s Set on and continue down this path until you reach a tower. Inside the tower the Fat Official inside will lower a set of stairs only if you have the Officia\'s Set on.\n</li>
+        \n<li>4. Go up the stairs, switch to your normal armor and kill the Fat Official. Talk to Yuria and the trophy should unlock.\n</li>
+    </string>
+    <string name = "legacy_of_the_kings_text">Obtain the Northern Regalia.\n\n</string>
+    <string name = "legacy_of_the_kings_trophy_guide">
+        In order to obtain the Northern Regalia you will three other items.\n
+        \n-Demonbrandt: This weapon is in the Mausoleum guarded by Old King Doran in 1-1 Boletarian Palace: Gates of Boletaria. You will need to get the Mausoleum Key from Ostrava by either completing his quest or killing him. The Mausoleum itself is located to the right of the Red Eye Knight with the lance at the end of the narrow walkway.\n
+        \n-Soulbrandt: SPOILERS ahead. To get this weapon you must kill the final boss King Allant and he will drop it in the boss arena.\n
+        \n-False King Demon Soul: This soul is obtained by killing Old King Allant in 1-4 Boletarian Palace: The King\'s Tower.\n\n
+        Once you get all three of these items go to Blacksmith Ed after giving him the Searing Demon Soul and he will create the Northern Regalia with these three items.\n\n
+        In order to get the Soulbrandt and not continue to New Game+ you must use some method of returning to the Nexus (Nexial Binding, Evacuate Spell or Archstone Shard). This may be helpful if you don\'t want to give Blacksmith Ed the Searing Demon Soul again in New Game Plus.
+    </string>
+    <string name = "sages_trophy_text">All Magic Spells Obtained.\n\n</string>
+    <string name = "sages_trophy_guide">
+        In total there are 22 spells in Demon\'s Souls. All spells in the game are purchasable from Sage Freke the Visionary, Freke\'s Aprentice and Yuria the Witch in the Nexus.
+        Some require normal souls (the ones you use to level up) but the ones that will be difficult to obtain are the ones that require Boss Souls and you will need multiple of the certain ones.
+        This means you will need to play through the game more than once (a minimum of two times).\n\n
+    </string>
+    <string name = "acid_cloud_text">\n\nSake Freke will sell you this spell in exchange for the Eroded Demon Soul (Dirty Colossus).</string>
+    <string name = "cloak_text">\n\nSage Freke or Freke\'s apprentice will sell you this spell for 500 souls.</string>
+    <string name = "curse_weapon_text">\n\nYuria the Witch will sell you this spell in exchange for the Silver Demon Soul (Penetrator)</string>
+    <string name = "death_cloud_text">\n\nSage Freke will sell you this spell in exchange for the Pureblood Demon Soul (Maiden Astraea)</string>
+    <string name = "enchant_weapon_text">\n\nSage Freke or Freke\'s apprentice will sell you this spell for 5,000 souls.</string>
+    <string name = "familiars_prank_text">\n\nSage Freke or Freke\'s apprentice will sell you this spell for 500 souls.</string>
+    <string name = "fireball_text">\n\nSage Freke will sell you this spell in exchange for the Dragon Demon Soul (Dragon God).</string>
+    <string name = "fire_spray_text">\n\nSage Freke will sell you this spell in exchange for the Hard Demon Soul (Armor Spider)</string>
+    <string name = "firestorm_text">\n\nYuria the Witch will sell you this spell in exchange for the Dragon Demon Soul (Dragon God)</string>
+    <string name = "flame_toss_text">\n\nSage Freke or Freke\'s apprentice will sell you this spell for 1,000 souls. You also start with this spell as the Magician class.</string>
+    <string name = "homing_soul_arrow_text">\n\nSage Freke will sell you this spell in exchange for the Golden Demon Soul (Old Monk)</string>
+    <string name = "ignite_text">\n\nYuria the Witch will sell you this spell in exchange for the Hard Demon Soul (Armor Spider)</string>
+    <string name = "light_weapon_text">\n\nSage Freke will sell you this spell in exchange for the Silver Demon Soul (Penetrator)</string>
+    <string name = "poison_cloud_text">\n\nSage Freke will sell you this spell in exchange for the Writhing Demon Soul (Leechmonger)</string>
+    <string name = "protection_text">\n\nSage Freke or Freke\'s apprentice will sell you this spell for 5,000 souls.</string>
+    <string name = "relief_text">\n\nYuria the Witch will sell you this spell in exchange for the Pureblood Demon Soul (Maiden Astraea)</string>
+    <string name = "soul_arrow_text">\n\nSage Freke or Freke\'s apprentice will sell you this spell for 1,000 souls. You also start with this spell as the Royalty class.</string>
+    <string name = "soul_ray_text">\n\nSage Freke will sell you this spell in exchange for the Doll Demon Soul (Fool\'s Idol)</string>
+    <string name = "soulsucker_text">\n\nYuria the Witch will sell you this spell in exchange for the Maiden in Black Demon Soul (SPOILERS ahead. At the end of the game after killing King Allant leave the arena, do not kill the Maiden in Black)</string>
+    <string name = "soul_thirst_text">\n\nYuria the Witch will sell you this spell in exchange for the Golden Demon Soul (Old Monk)</string>
+    <string name = "warding_text">\n\nSage Freke will sell you this spell in exchange for the Iron Demon Soul (Tower Knight)</string>
+    <string name = "water_veil_text">\n\nSage Freke or Freke\'s apprentice will sell you this spell for 500 souls. You also start with this spell as the Magician class.</string>
+
+    <string name = "saints_trophy_text">All Miracles Obtained.\n\n</string>
+    <string name = "saints_trophy_guide">
+        In total there are 12 miracles in Demon\'s Souls. All miracles in the game are purchasable from Saint Urbain or the Disciple of God in the Nexus.
+        Some require normal souls (the ones you use to level up) but the ones that will be difficult to obtain are the ones that require Boss Soul.
+        You can get all miracles in one playthrough of the game but if you are also going for all spells then you will need to play through the game at least two times if you use a save file. If you don\'t, you will need to beat the game three times.\n\n
+    </string>
+    <string name = "antidote_text">\n\nSaint Urbain or Disciple of God will sell you this miracle for 3,000 souls.</string>
+    <string name = "evacuate_text">\n\nSaint Urbain or Disciple of God will sell you this miracle for 20,000 souls.</string>
+    <string name = "heal_text">\n\nSaint Urbain or Disciple of God will sell you this miracle for 5,000 souls. You also start with this miracle as the Temple Knight class.</string>
+    <string name = "hidden_soul_text">\n\nSaint Urbain or Disciple of God will sell you this miracle for 3,000 souls.</string>
+    <string name = "gods_wrath_text">\n\nSaint Urbain will sell you this miracle in exchange for the Dragon Demon Soul (Dragon God)</string>
+    <string name = "banish_text">\n\nSaint Urbain will sell you this miracle in exchange for the Golden Demon Soul (Old Monk)</string>
+    <string name = "regeneration_text">\n\nSaint Urbain will sell you this miracle in exchange for the Swollen Demon Soul (Adjudicator)</string>
+    <string name = "second_chance_text">\n\nSaint Urbain will sell you this miracle in exchange for the Hero Demon Soul (Old Hero)</string>
+    <string name = "anti_maigc_field_text">\n\nSaint Urbain will sell you this miracle in exchange for the Storm Demon Soul (Storm King)</string>
+    <string name = "cure_text">\n\nSaint Urbain will sell you this miracle in exchange for the Writhing Demon Soul (Leechmonger)</string>
+    <string name = "resurrection_text">\n\nSaint Urbain will sell you this miracle in exchange for the Pureblood Demon Soul (Maiden Astraea)</string>
+    <string name = "recovery_text">\n\nSaint Urbain will sell you this miracle in exchange for three Colorless Demon Soul\n\n
+    The easiest way to get three Colorless Demon Souls is to:\n
+        \n-Trade a Gold Mask with Sparkly, the Crow. In order to get the Gold Mask you need to make sure the path to Maneaters is open. Go to 3-2 Tower of Latria: Upper Latria and continue through the level until you hit an area where you either go up a set of stairs on your left or the other way which wraps around to an archway, go towards the archway. From here continue down the spiral staircase and go into the tower. In this area filled with Man Centipedes you should find a Gold Mask.\n
+        \n-Trade a Talisman of God with Sparkly, the Crow. To get a Talisman of God go to 4-1 Shrine of Storms: Island\'s Edge and continue until the first fog gate with the two Silver Skeleton Archers above. Right before the fog gate to the right there should be a Talisman of God.\n
+        \n-Reach Pure White or Pure Black World Tendency in 1-1 Boletarian Palace: Gates of Boletaria. Go to the first archstone (1-1) and you should see ahead of you a set of stairs on the left with a dregling in front of it. There should be a gate behind him that is now open. Go through that gate and continue forward until you meet the hostile NPC Executioner Miralda. In that stairwell there is an Colorless Demon Soul on the wooden beams.\n\n\n\n
+        To trade items with Sparkly, the Crow go to 4-1 Shrine of Storms: Island\'s Edge and continue until the first fog gate with the two Silver Skeletons Archers above. \n\n
+        Go to the left through the narrow path with the trap and go up the stairs. \n\n
+        Once you are up the stairs there should be an area to drop down to your left, not in the direction of the Silver Skeletons. \n\n
+        Drop down and continue until you hit the stairwell, go up the stairwell completely and go outside (not towards the Silver Skeleton archer). \n\n
+        Once you continue through here you should see a tree and Sparkly should start talking to you, just drop the item at the base of the tree and quit out of the game. \n\n
+        Once you load back into the game your new item should be there.
+    </string>
+    <string name = "king_of_rings_text">All Rings Obtained.\n\n</string>
+    <string name = "king_of_rings_trophy_guide">
+        In total there are 30 rings in Demon\'s Souls.\n\n
+    </string>
+    <string name = "ring_of_great_strength_text">\n\nThe Ring of Great Strength is found in the dragon nest in 1-1 Boletarian Palace: Gates of Boletaria, under the dragon\'s tail.
+        The ring can also be obtained by killing Biorr of the Twin Fangs.\n\n\n
+        If you don\'t know where the dragon nest is, go past the spot where you break a boulder loose to roll over the enemies on the narrow walkway.
+        When you get to a spot where you can go straight or left, instead of going towards the walkway filled with Boletarian Soldiers (where the dragon breathes fire down) go the other way and you should be at the dragon\'s nest.
+    </string>
+    <string name = "ring_of_herculean_strength_text">\n\nThe Ring of Herculean Strength is found in The Nexus by giving Stockpile Thomas the Jade Hair Ornament. It can also be obtained by killing Stockpile Thomas.\n\n\n
+        The Jade Hair Ornament is found in 1-1 Boletarian Palace: Gates of Boletaria.
+        In the level you will see the first Blue Eye Knight, go past him (not towards the enemies) towards the tower that has a stairway in it.
+        In the stairway there should be an archway that leads outside,this should be before you get to the very bottom.
+        Here there are two ropes you can cut, once you cut them go all the way down the stairway and through the door, the Jade Hair Ornmanet should be on the ground here.
+    </string>
+    <string name = "regenerators_ring_text">\n\nThe Regenerator\'s Ring is found in 5-2 Valley of Defilement: Swamp of Sorrow.
+        It can also be found in 4-1 Shrine of Storms: Island\'s Edge. Can also be obtained by trading the Jade Hair Ornnament to Sparkly, the Crow\n\n\n
+        The easiest way to get this ring is to go to 5-2 Valley of Defilement: Swamp of Sorrow. From here continue to forward while hugging the right wall.
+        Once you reach the swamp you should see the ring hidden in a pocket as long as you were staying along the right side.
+    </string>
+    <string name = "fragrant_ring_text">\n\nThe Fragrant Ring is the starting ring for the Royalty class. Can also be found in both 3-2 Tower of Latria: Upper Latria and 4-1 Shrine of Storms: Island\'s Edge by trading the brass telescope to Sparkly, the Crow. Can also be purchased from Patches the Hyena for 60,000 souls.\n\n\n
+        The easiest way to get this is to go to 3-2 Tower of Latria: Upper Latria and continue until you go down into the swamp using the cage.
+        Go up the wooden steps and look for a tentacle in the shape of an upside down U, the fragrant ring should be near it.
+    </string>
+    <string name = "eternal_warriors_ring_text">\n\nThe Eternal Warrior\'s Ring can be obtained by killing Old King Doran.\n\n\n
+        Old King Doran is located in 1-1 Boletarian Palace: Gates of Boletaria. You will need to get the Mausoleum Key from Ostrava by either completing his quest or killing him.
+        The Mausoleum itself is located to the right of the Red Eye Knight with the lance at the end of the narrow walkway.\n\n
+    </string>
+    <string name = "flame_resistance_ring_text">\n\nFlame Resistance Ring can be found in 1-1 Boletarian Palace: Gates of Boletaria and 2-2 Stonefang Tunnel: The Tunnel City.\n\n\n
+        The easier method is to pick it up when picking up the Ring of Great Strength since they are both in the dragon\'s nest.  If you don\'t know where the dragon\'s nest is, go past the spot where you break a boulder loose to roll over the enemies on the narrow walkway.
+        When you get to a spot where you can go straight or left, instead of going towards the walkway filled with Boletarian Soldiers (where the dragon breathes fire down) go the other way and you should be at the dragon\'s nest.
+    </string>
+    <string name = "gash_resistance_ring_text">\n\nGash Resistance Ring can be found in 1-2 Boletarian Palace: Gates of Boletaria and 4-2 Shrine of Storms: The Ritual Path.\n\n\n
+        In 4-2 Shrine of Storms: The Ritual Path, after Patches the Hyena kicks you down a pit and you save Saint Urbain, once you get back to Patches the Hyena he should give you a Gash Resistance Ring. If you are unsure how to reach this area follow these steps:\n
+        \n<li>1. Go to the Shrine of Storms: The Ritual Path archstone and continue forward until you are at the first room with the Reaper and Shadowlurkers.\n</li>
+        \n<li>2. Locate the steps that lead up to the reaper, but don\'t go up the steps instead go to the doorway to the right of them.\n</li>
+        \n<li>3. Here you will find Patches the Hyena, talk to him and look down into the pit.\n</li>
+    </string>
+    <string name = "poison_resistance_ring_text">\n\nPoison Resistance Ring can be found in 1-1 Boletarian Palace: Gates of Boletaria and 2-1 Stonefang Tunnel: Smithing Grounds.\n\n\n
+        In 2-1 Stonefang Tunnel: Smithing Grounds there\'s a lava pit you have to douse with water. Where the lava pit used to be is where the Poison Resistance Ring will be.
+    </string>
+    <string name = "plague_resistance_ring_text">\n\nPlague Resistance Ring can be found in 2-2 Stonefang Tunnel: The Tunnel City and 3-2 Tower of Latria: Upper Latria.\n\n\n
+        You should get the ring along with the Fragrant Ring since they are in the same area. Go to 3-2 Tower of Latria: Upper Latria and continue until you go down into the swamp area using the cage. In this area the ring will be on a section that you need to use the wooden walkways to access and is protected by 3 Man Centipedes.
+    </string>
+    <string name = "ring_magical_sharpness_text">\n\nRing of Magical Sharpness can be found in 3-1 Tower of Latria: Prison of Hope in a room with 4 Iron Maidens..\n\n\n
+        Follow these steps to reach the room with the Ring of Magical Sharpness:\n
+        \n<li>1. Go to the Prison of Hope archstone and go on to the right path.\n</li>
+        \n<li>2. Continue forward until you reach a gate on your left with a Mindflayer on a balcony (past the prisoners blocking your path)</li>\n
+        \n<li>3. From this balcony continue until you reach another area with two Mindflayers, take the path on the left and look into the cell at the very end which should have 4 Iron Maidens.</li>\n
+        \n<li>4. Open the Iron Maidens until you see one with a corpse that has the Ring of Magical Sharpness</li>\n
+    </string>
+    <string name = "ring_of_magical_dullness_text">\n\nRing of Magical Dullness can be found in 5-1 Valley of Defilement: Depraved Chasm or 4-1 Shrine of Storms: Island\'s Edge by trading a Phosphorescent Pole with Sparkly, the Crow \n\n\n
+        \n<li>1. Go to the 5-1 Valley of Defilement: Depraved Chasm archstone and go up the spiral walkway, once at the top hug the right wall until you reach the first narrow walkway guarded by a Depraved One with a flame sword.\n</li>
+        \n<li>2. Instead of going through that walkway turn to the right and you should see a ledge.\n</li>
+        \n<li>3. There should be another platform that you can drop onto over here, drop down and the Ring of Magical Dullness should be there.\n</li>
+    </string>
+    <string name = "ring_of_magical_nature_text">\n\nRing of Magical Nature can be found in 1–3 Boletarian Palace within the tower that holds Yuria the Witch.\n\n\n
+    Follow these steps if you need help locating this tower.\n
+        \n-You will need the Iron Key Ring from the first Fat Official you kill in 1-3 Boletarian Palace: Inner Ward. \n
+        \n-You will need the Bloody Iron Key, you can get this from killing the Fat Official in the room that has Biorr of the Twin Fangs in it.\n\n\n
+        \n<li>1. Go to 1-3 Boletarian Palace: Inner Ward and continue until you get to the courtyard with the dogs.\n</li>
+        \n<li>2. Instead of going up the big set of stairs go into the alley on the opposite side of the stairs. Use the Bloody Iron Key on the door here.\n</li>
+        \n<li>3. Continue through until you are at the tower with Yuria the Witch inside. The Ring of Magical Nature should be here on the ground.</li>
+    </string>
+    <string name = "ring_of_devout_prayer_text">\n\nRing of Devout Prayer can be found in the Nexus by killin Saint Urbain. It can also be found in both 5-2 Valley of Defilement: Swamp of Sorrow by finishing Selen Vinland\'s quest or 4-1 Shrine of Storms: Island\'s Edge by trading a Large Sword of Moonlight with Sparkly, the Crow.\n\n\n
+        The easiest way without killing Saint Urbain is to go to complete Selen Vinalnd\'s quest in 5-2 Valley of Defilement: Swamp of Sorrow. Selen Vinland will only appear if you have Pure White World Tendency. To complete this quest follow these steps:\n
+        \n<li>1. Go to 5-2 Valley of Defilement: Swamp of Sorrow and continue until you are past the first Giant Depraved One.\n</li>
+        \n<li>2. Once you get past where the first fog gate is/was, look to the right in the swamp and you should see a person by a fire. Go to her and exhaust dialog.\n</li>
+        \n<li>3. Now go to the 5-3 Valley of Defilement: Rotting Haven archstone and into the Maiden Astraea boss arena. Here you will find a Black Phantom of Garl Vinland.\n</li>
+        \n<li>4. Pick up the Crest of Vinland off him after you defeat him and return to Selen Vinland. You should be able to trade the Crest for the Ring of Devout Prayer.</li>
+    </string>
+    <string name = "ring_of_sincere_prayer_text">\n\nRing of Sincere Prayer can be obtained by killing Maiden Astraea (the boss) of 5-3 Valley of Defilement: Swamp of Sorrow.\n\n\n
+    </string>
+    <string name = "clever_rats_ring_text">\n\nClever Rat\'s Ring can be found in 3-1 Tower of Latria: Upper Latria on the bridge with the ballista that is shooting at you.\n\n\n
+    </string>
+    <string name = "dull_rats_ring_text">\n\nDull Rat\'s Ring can be found in 3-1 Tower of Latria: Upper Latria after completing Lord Rydell\'s quest.\n\n\n
+        To complete his quest you need Pure White World Tendency in world 3 Tower of Latria. Once you have that follow these steps:\n
+        \n<li>1. Go to the 3-2 Tower of Latria: Upper Latria archstone and continue through the level until you are at the first area where the Prisoners are using magic (the same ones you need to kill to progress the level).\n</li>
+        \n<li>2. There should be a spiral staircase in this area which you can go up and a wooden walkway here now. Continue all the way up until you get the key.\n</li>
+        \n<li>3. Go to the 3-1 Tower of Latria: Prison of Hope archstone. Go to the path on the right and continue forward until you reach a gate on your left with a Mindflayer on a balcony (past the prisoners blocking your path)</li>\n
+        \n<li>4. Continue there until you are at a fork with two Mindflayers go left here and continue down that path until you reach an area where you can either go down a set of stairs or forward, go down the stairs here.\n</li>
+        \n<li>5. Continue here past the two gates and down another set of stairs which should lead you to another fork. Don\'t go down the stairs here instead go around to the  walkway.\n</li>
+        \n<li>6. In the last cell on the left you should see Lord Rydell who will give you the Clever Rat\'s Ring.\n</li>
+    </string>
+    <string name = "ronin_ring_text">\n\nRonin Ring can be found in 4-2 Shrine of Storms: The Ritual Paht or in 2-2 Stonefang Tunnel: The Tunnel City by killing Scirvir the Wanderer.\n\n\n
+        To get this ring go to 4-3 Shrine of Storms: Altar of Storms and instead of going forward towards Storm King boss arena go backwards towards the room with the slugs. In this room you should find the Ronin Ring.
+    </string>
+    <string name = "masters_ring_text">\n\nMaster\'s Ring can be found in 2-3 Stonefang Tunnel: Underground Temple or in 1-1 Boletarian Palace: Gates of Boletaria
+        by killing Executioner Miralda in Pure White World Tendency.\n\n\n
+        To get this ring go to the Dragon God archstone (the very last archstone of world 2 Stonefang Tunnel) and go towards the second ballista you used to kill Dragon God. The ring should be behind the ballista.
+    </string>
+    <string name = "cling_ring_text">\n\nCling Ring can be found in 1-1 Boletarian Palace: Gates of Boletaria.\n\n\n
+        In the level you will see the first Blue Eye Knight, go past him (not towards the enemies) towards the tower that has a stairway in it.
+        Go all the way down the stairway and pull the lever, the item should be on the corpse past the gate you opened.
+    </string>
+    <string name = "allys_ring_text">\n\nAllys Ring can be obtained from The Monumental by achieving Pure White Character Tendency.\n\n\n
+        \nTo shift your character tendency towards white you will need to directly kill the following named black phantom NPCs in the world or kill a player black phantom in either your world or another world.
+        Killing the other black phantoms that appear throughout the game do not shift your character tendency towards white, only killing the following named black phantom NPCs will.
+        These phantoms will only appear when you are in Pure Black World Tendency in each world.\n
+        \n<li>Gates of Boletaria - Executioner Miralda\n</li>
+        \n<li>The Tunnel City - Scirvir, the Wanderer\n</li>
+        \n<li>Prison of Hope - Lord Rydell\n</li>
+        \n<li>The Ivory Tower - Old Monk in online mode\n</li>
+        \n<li>Island\'s Edge - Satsuki\n</li>
+        \n<li>Swamp of Sorrows - Selen Vinland\n</li>
+    </string>
+    <string name = "foes_ring_text">\n\nFoe\'s Ring can be obtained by completing Mephistopholes\' quest. She will send you to kill varios NPCs in the Nexus be wary of this as you might want to make a save file before doing this.\n\n\n
+        Mephistopholes can be found in the Nexus\' second floor after you kill Yurt the Silent Chief (the NPC in the black armor who was stuck in the cage in 3-2 Tower of Latria: Upper Latria)
+        and you must have Pure Black Character Tendency which is obtained by killing harmless NPCs while you are in soul form. Here are a few that won\'t affect your game too much if they are dead:\n
+        \n<li>(1-1) Boletarian Palace - Dregling Merchant\n</li>
+        \n<li>(2-1) Stonefang Tunnel - Filthy Man\n</li>
+        \n<li>(3-1) Tower of Latria - Once Royal Mistress\n</li>
+        \n<li>(4-1) Shrine of Storms - Graverobber Blige\n</li>
+        \n<li>(5-1) Valley of Defilement - Filthy Woman\n</li>
+    </string>
+    <string name = "thief_ring_text">\n\nThief Ring can be found in 1-1 Boletarian Palace: Gates of Boletaria or 5-2 Valley of Defilement: Swamp of Sorrow .\n\n\n
+        Follow these steps to find the Thief Ring in 5-2 Valley of Defilement: Swamp of Sorrow:\n
+        \n<li>1. Go to 5-2 Valley of Defilement: Swamp of Sorrow and continue until you are past the first Giant Depraved One.\n</li>
+        \n<li>2. Once you get past where the first fog gate is/was, look to the right in the swamp and you should see  a fire with an item near it that is the Thief Ring.\n</li>
+    </string>
+    <string name = "graverobbers_ring_text">\n\nGraverobber\'s Ring can be found in 4-1 or 4-2 by killing Graverobber Blige or in 4-1 Shrine of Storms: Island\'s Edge.\n\n\n
+        Go to the 4-2 Shrine of Storms: The Ritual Path archstone and go back towards the Black Skeleton and past the trap on the floor as well. In this room there should be a set of stairs with a thing wooden beam you can walk across. Walk across and the Graverobber\'s Ring should be there.
+    </string>
+    <string name = "cat_ring_text">\n\nCat Ring can be found in 5-2 Valley of Defilement: Swamp of Sorrown or purchase from Patches the Hyena for 40,000 souls.\n\n\n
+        Go to the 5-2 Valley of Defilement: Swamp of Sorrows archstone and go forward until you are at the first swamp. At the very far left of this swamp you should find the Cat Ring near a Black Phantom wielding a Dragon Bone Smasher.
+    </string>
+    <string name = "ring_of_the_accursed_text">\n\nRing of the Accursed can be found in 1-3 Boletarian Palace: Gates of Boletaria in Yuria\'s tower or by killing Mephistopholes.\n\n\n
+        To get to Yuria\'s tower follow these steps:\n
+        \n-You will need the Iron Key Ring from the first Fat Official you kill in 1-3 Boletarian Palace: Inner Ward. \n
+        \n-You will need the Bloody Iron Key, you can get this from killing the Fat Official in the room that has Biorr of the Twin Fangs in it.\n\n\n
+        \n<li>1. Go to 1-3 Boletarian Palace: Inner Ward and continue until you get to the courtyard with the dogs.\n</li>
+        \n<li>2. Instead of going up the big set of stairs go into the alley on the opposite side of the stairs. Use the Bloody Iron Key on the door here.\n</li>
+        \n<li>3. Continue through until you are at the tower with Yuria the Witch inside. The Ring of the Accursed should be here on the ground.</li>
+    </string>
+    <string name = "ring_of_avarice_text">\n\nRing of Avarice can be found in 3-2 Tower of Latria: Upper Latria or purchased from the Once Royal Mistress in 3-1 Tower of Latria: Prison of Hope.\n\n\n
+        In order to get the Ring of Avarice go to 3-2 Tower of Latria: Upper Latria and make sure the path to Maneaters is open. \n
+        \n<li>1. Continue through the level until you hit an area where you either go up a set of stairs on your left or the other way which wraps around to an archway, go towards the archway. \n</li>
+        \n<li>2. From here continue down the spiral staircase and go into the tower. In this area filled with Man Centipedes you should find the Ring of Avarice.\n</li>
+    </string>
+    <string name = "sodden_ring_text">\n\nSodden Ring can be found in 3-2 Tower of Latria: Upper Latria in the swamp filled with Man Centipedes. You need Pure Black World Tendency for this ring to appear.\n\n\n
+        Go to 3-2 Tower of Latria: Upper Latria and continue until you go down into the swamp using the cage. Locate the Prisoner Horde (the fat blob that shoots magic at you and swings swords around when you get close), near this enemy youo should find the Sodden Ring.
+    </string>
+    <string name = "ring_of_longevity_text">\n\nRing of Longevity can be found obtained from Stockpile Thomas in the Nexus if you purchased the Digital Deluxe Edtiion or by trading a Pure Bladestone with Sparkly, the Crow.\n\n\n
+        To obtain a Pure Bladestone go to 4-2 Shrine of Storms: The Ritual Path. In the first room with the reaper go to the stairs that lead up to the reaper.
+        Instead of going up the stairs go to the doorway on the left wall. Climb one flight of stairs and you should be able to attack an illusory wall.
+        Behind this wall will be a Black Skeleton who will (very rarely) drop a Pure Bladestone. Continue killing him until you get one.
+        After you obtain one go to Sparkly, the Crow and trade it for the Ring of Longevity.\n\n\n
+        To trade items with Sparkly, the Crow go to 4-1 Shrine of Storms: Island\'s Edge and continue until the first fog gate with the two Silver Skeletons Archers above. \n\n
+        Go to the left through the narrow path with the trap and go up the stairs. \n\n
+        Once you are up the stairs there should be an area to drop down to your left, not in the direction of the Silver Skeletons. \n\n
+        Drop down and continue until you hit the stairwell, go up the stairwell completely and go outside (not towards the Silver Skeleton archer). \n\n
+        Once you continue through here you should see a tree and Sparkly should start talking to you, just drop the item at the base of the tree and quit out of the game. \n\n
+        Once you load back into the game your new item should be there.
+    </string>
+    <string name = "providential_ring_text">\n\nYou can start with this ring as a starting gift when creating a character or trade a Large Sword of Searching with Sparkly, the Crow.\n\n\n
+    </string>
+    <string name = "ring_of_uneven_scales_text">\n\nRing of Uneven Scales can be obtained in 4-1 Shrine of Storms: Island\'s Edge by trading a Gold Coing with Sparkly, the Crow.\n\n\n
+        Gold Coins are rare drops from Fat Officials. The easiest one to farm is in 2-2 Stonefang Tunnel: The Tunnel City.
+        Go forward until you have the option of going left or right. Go left past the three exploding mine carts and there should be a Fat Official in the right corner at the end of the path.
+        Once you get a gold coin trade it with Sparkly, the Crow and he should give you the Ring of Uneven Scales.\n\n\n
+        To trade items with Sparkly, the Crow go to 4-1 Shrine of Storms: Island\'s Edge and continue until the first fog gate with the two Silver Skeletons Archers above. \n\n
+        Go to the left through the narrow path with the trap and go up the stairs. \n\n
+        Once you are up the stairs there should be an area to drop down to your left, not in the direction of the Silver Skeletons. \n\n
+        Drop down and continue until you hit the stairwell, go up the stairwell completely and go outside (not towards the Silver Skeleton archer). \n\n
+        Once you continue through here you should see a tree and Sparkly should start talking to you, just drop the item at the base of the tree and quit out of the game. \n\n
+        Once you load back into the game your new item should be there.
+    </string>
+    <string name="ally_s_ring">Ally\'s Ring</string>
+    <string name="poison_resistance_ring">Poison Resistance Ring</string>
+    <string name ="step_1">
+        Step 1: Character Creation\n\n
+    </string>
+    <string name="step_1_text">
+        Create your character (you can choose any class but if you want to skip having to pick up the fragrant ring start as the Royalty class)
+        and make sure your starting gift is the Providential Ring.\n\n\n\n
+    </string>
+    <string name ="step_2">
+        Step 2: Beat Every Boss in Each Archstone with Pure White World Tendency\n\n
+    </string>
+    <string name ="step_2_text">
+        For this step you have to make sure you are in soul form the entire time that way so that you do not affect the World Tendency of whichever world you are in (dying in body form will shift the world towards Black.
+        To ensure this you should make sure that every time you defeat a boss and regain body form you should go to the Nexus and fall to your death (dying in the Nexus doesn\'t affect anything).
+        Once you defeat 3 bosses in an archstone the World Tendency should be Pure White as long as you do not die in body form in that world.
+        You should also rescue the three people who sell you spells/miracles Yuria the Witch (With in the Tower), Sage Freke (A Dash of Sage) and Saint Urbain (Umbasa). Also give the Searing Demon Soul to Blacksmith Ed to get the Road to Possibilities Trophy.
+        Refer to these Trophies for assistance:
+    </string>
+    <string name ="step_3">
+        \n\nStep 3: Get all the Rings/Miracles/Spells you can in this run.\n\n
+    </string>
+    <string name="step_3_text1">
+        For this step you should collect any rings, miracles or spells that you can. You can obtain all rings in the game in a single playthrough so you should aim for that. Refer to the Trophies below this step if you need help with any of the rings/spells/miracles.
+        When purchasing the spells/miracles make sure to first get all the spells you can from Yuria and Freke first before buying anything from Urbain or vice versa.
+        Make sure to get all the rings and trophies that require Pure White World tendency first since it\'s a lot more difficult to get Pure White World tendency than it is to get Pure Black World tendency.
+        Refer to the following trophies for help on the trophies that require Pure White World Tendency:
+    </string>
+    <string name = "step_3_part_2">
+        \n\nOnce you get all the rings that require Pure White World tendency and the trophies that require it as well, it is safe to go into Pure Black World tendency and collect all the rings that require Pure Black World tendency.
+        To get Pure Black Character Tendency easily go into body form using a Stone of Ephemeral Eyes and die in whichever world you are trying to shift the tendency in.
+        It should take around 7 deaths to shift the World Tendency from Pure White to Pure Black (make sure to travel back to the Nexus to see the shift since the shift will only be visible once you travel to The Nexus).
+        Pure Black World tendency actually spawns in the 5 NPC Black Phantoms that you need to kill in order to shift yourself to Pure White CHARACTER Tendency. These NPCs are as follows:\n
+        \n<li>Gates of Boletaria - Executioner Miralda\n</li>
+        \n<li>The Tunnel City - Scirvir, the Wanderer\n</li>
+        \n<li>Prison of Hope - Lord Rydell\n</li>
+        \n<li>The Ivory Tower - Old Monk in online mode\n</li>
+        \n<li>Island\'s Edge - Satsuki\n</li>
+        \n<li>Swamp of Sorrows - Selen Vinland</li>\n\n
+        Once you have Pure White Character Tendency go to The Monumental in The Nexus and he will give you the Ally\'s Ring.\n\n\n
+        Now it is time to Pure Black Character Tendency to do this you have to kill harmless NPCs throughout the world (don\'t kill the ones in The Nexus). Here are a few NPCs that you can kill in the 5 archstones:\n
+        \n<li>(1-1) Boletarian Palace - Dregling Merchant\n</li>
+        \n<li>(2-1) Stonefang Tunnel - Filthy Man\n</li>
+        \n<li>(3-1) Tower of Latria - Once Royal Mistress\n</li>
+        \n<li>(4-1) Shrine of Storms - Graverobber Blige\n</li>
+        \n<li>(5-1) Valley of Defilement - Filthy Woman\n</li>\n\n
+        Once you obtain Pure Black Character Tendency go to the second floor of the Nexus and look for Mephistopholes and complete her quest. She will have you kill NPCs within The Nexus.
+        Make sure you have bought all the spells\miracles you need since she will have you kill some of the people who give you these spells.
+        Don\'t worry about killing them once you have all the spells that you can get since you will need to do a second playthrough of the game to get the remainder of the spells.
+        Once you have finished her quest she will award you the Foe\'s Ring. After you have done all this start your second playthrough.
+    </string>
+    <string name = "step_4">
+        \n\nStep 4: Complete Second Playthrough to get the Remaining Spells\n\n
+    </string>
+    <string name ="step_4_text">
+        Get the Time for Rolling Trophy here in case you missed it in the first playthrough.
+        Be sure to kill certain bosses a specific way to get their trophy.
+        This is also a good time to go for the two online trophies since Unwelcome Guest will mess with your Character Tendency.
+        Refer to the following trophies for assistance:
+    </string>
+    <string name ="step_4_part_2">
+        \n\nHere you have to use some save files in order to ensure you don\'t have to play the game a third time (this also requires a PSN account since at the time of writing this there\'s no way to backup your saves any other way on PS5).\n\n\n
+        To backup a save go to Settings > Saved Data and Game/App Settings > Saved Data (PS5) > Console Storage > Upload to Cloud Storage > Check off Demon\'s Souls > Upload.\n\n
+        To copy that backed up save go to Settings > Saved Data and Game/App Settings > Saved Data (PS5) > Cloud Storage > Download to Console Storage > Check off Demon\'s Souls > Download \n\n\n
+        Once you beat all the bosses again (except the final one) backup your save first, then buy all the spells you can from Yuria and Freke once the Sage\'s Trophy unlocks quit out of the game and replace your save with the backed up one.
+        Now go to Saint Urbain and purchase all of his miracles and the Saint\'s Trophy should unlock.
+        If you don\'t want to do this method you must play through the game a third time so that you have enough boss souls.\n\n
+        You should also get the Northern Regalia for the Legacy of the Kings Trophy. Refer to the following trophy for assistance on that:
+    </string>
+    <string name ="step_4_part_3">
+        \n\nAt the end of this playthrough be sure to pick the opposite ending of the one you did your first playthrough. Refer to the Seekest Soul Power trophy if you need help here.
+    </string>
+
+</resources>

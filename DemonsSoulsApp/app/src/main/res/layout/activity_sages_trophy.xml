@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".SagesTrophyActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/sage_s_trophy"
+                android:textColor="@color/tan"
+                android:textSize="40sp" />
+
+            <ImageView
+                android:id="@+id/phalanxTrophyImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#000000"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/sagestrophy"
+                android:contentDescription="@string/picture_of_knight" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/sages_trophy_text"
+                android:textColor="@color/tan"
+                android:textSize="30sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/sages_trophy_guide"
+                android:textColor="@color/tan"
+                android:textSize="22sp" />
+
+             <Button
+                android:id="@+id/acidCloudButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showAcidCloud"
+                android:text="@string/acid_cloud"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/cloakButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showCloak"
+                android:text="@string/cloak"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/curseWeaponButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showCurseWeapon"
+                android:text="@string/curse_weapon"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/deathCloudButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showDeathCloud"
+                android:text="@string/death_cloud"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/enchantWeaponButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showEnchantWeapon"
+                android:text="@string/enchant_weapon"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/familiarsPrankButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFamiliarsPrank"
+                android:text="@string/familiar_s_prank"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/fireballButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFireball"
+                android:text="@string/fireball"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/fireSprayButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFireSpray"
+                android:text="@string/fire_spray"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/firestormButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFirestorm"
+                android:text="@string/firestorm"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/flameTossButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFlameToss"
+                android:text="@string/flame_toss"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/homingSoulArrowButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showHomingSoulArrow"
+                android:text="@string/homing_soul_arrow"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/igniteButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showIgnite"
+                android:text="@string/ignite"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/lightWeaponButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showLightWeapon"
+                android:text="@string/light_weapon"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/poisonCloudButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showPoisonCloud"
+                android:text="@string/poison_cloud"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/protectionButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showProtection"
+                android:text="@string/protection"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/reliefButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRelief"
+                android:text="@string/relief"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/soulArrowButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showSoulArrow"
+                android:text="@string/soul_arrow"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/soulRayButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showSoulRay"
+                android:text="@string/Soul_Ray"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/soulSuckerButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showSoulSucker"
+                android:text="@string/soulsucker"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/soulThirstButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showSoulThirst"
+                android:text="@string/soul_thirst"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/wardingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showWarding"
+                android:text="@string/warding"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/waterVeilButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showWaterVeil"
+                android:text="@string/water_veil"
+                android:textSize="50sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

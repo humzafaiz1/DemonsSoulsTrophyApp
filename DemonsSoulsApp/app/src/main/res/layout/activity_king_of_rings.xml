@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".KingOfRingsActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/king_of_rings"
+                android:textColor="@color/tan"
+                android:textSize="40sp" />
+
+            <ImageView
+                android:id="@+id/phalanxTrophyImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#000000"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/kingofrings"
+                android:contentDescription="@string/picture_of_knight" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/king_of_rings_text"
+                android:textColor="@color/tan"
+                android:textSize="30sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="1dp"
+                android:layout_marginBottom="1dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:gravity="center"
+                android:text="@string/king_of_rings_trophy_guide"
+                android:textColor="@color/tan"
+                android:textSize="22sp" />
+
+            <Button
+                android:id="@+id/friendsRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFriendsRing"
+                android:text="@string/ally_s_ring"
+                android:textSize="50sp" />
+
+             <Button
+                android:id="@+id/catRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showCatRing"
+                android:text="@string/cat_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/cleverRatsRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showCleverRatsRing"
+                android:text="@string/clever_rat_s_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/clingRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showClingRing"
+                android:text="@string/cling_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/dullRatsRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showDullRatsRing"
+                android:text="@string/dull_rat_s_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/eternalWarriorsRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showEternalWarriorsRing"
+                android:text="@string/eternal_warrior_s_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/foesRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFoesRing"
+                android:text="@string/foe_s_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/fragrantRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFragrantRing"
+                android:text="@string/fragrant_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/graverobbersRing"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showGraverobbersRing"
+                android:text="@string/graverobber_s_ring"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/mastersRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showMastersRing"
+                android:text="@string/master_s_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/regeneratorsRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRegeneratorsRing"
+                android:text="@string/regenerator_s_ring"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/ringOfAvariceButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfAvarice"
+                android:text="@string/ring_of_avarice"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfDevoutPrayerButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfDevoutPrayer"
+                android:text="@string/ring_of_devout_prayer"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/plagueResistanceRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showPlagueResistanceRing"
+                android:text="@string/plague_resistance_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/flameResistanceRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showFlameResistanceRing"
+                android:text="@string/flame_resistance_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/gashResistanceRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showGashResistanceRing"
+                android:text="@string/gash_resistance_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfPoisonResistanceButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfPoisonResistance"
+                android:text="@string/poison_resistance_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfGreatStrengthButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfGreatStrength"
+                android:text="@string/ring_of_great_strength"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfHerculeanStrengthButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfHerculeanStrength"
+                android:text="@string/ring_of_herculean_strength"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfMagicalDullnessButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfMagicalDullness"
+                android:text="@string/ring_of_magical_dullness"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfMagicalNatureButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfMagicalNature"
+                android:text="@string/ring_of_magical_nature"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfMagicalSharpnessButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfMagicalSharpness"
+                android:text="@string/ring_of_magical_sharpness"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfSincerePrayerButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfSincerePrayer"
+                android:text="@string/ring_of_sincere_prayer"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfTheAccursedButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfTheAccursed"
+                android:text="@string/ring_of_the_accursed"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/roninsRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRoninsRing"
+                android:text="@string/ronin_s_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/thiefRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showThiefRing"
+                android:text="@string/thief_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfLongevityButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfLongevity"
+                android:text="@string/ring_of_longevity"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/providentialRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showProvidentialRing"
+                android:text="@string/providential_ring"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/soddenRingButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showSoddenRing"
+                android:text="@string/sodden_ring"
+                android:textSize="50sp" />
+
+            <Button
+                android:id="@+id/ringOfUnevenScalesButton"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_weight="1"
+                android:fontFamily="@font/bernhard_font"
+                android:onClick="showRingOfUnevenScales"
+                android:text="@string/ring_of_uneven_scales"
+                android:textSize="50sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
